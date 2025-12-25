@@ -4,9 +4,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
-import java.time.LocalDate;
-import java.time.format.DateTimeFormatter;
-
 @Service
 public class SendFlexQueryRequest {
 
@@ -23,13 +20,8 @@ public class SendFlexQueryRequest {
 
     public String requestFlexQueryReferenceCode(){
 
-        LocalDate today = LocalDate.now();
-        LocalDate fromDate = today.minusDays(14);
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyyMMdd");
-        String fromThisDate = fromDate.format(formatter);
-        String toToday = today.format(formatter);
+        String request = String.format("%s?t=%s&q=%s&v=3",ibkrSendRequestUrl, flexToken, flexQueryId);
 
-        String request = String.format("%s?t=%s&q=%s&v=3&fd=%s&td=%s",ibkrSendRequestUrl, flexToken, flexQueryId, fromThisDate, toToday);
 
         String response = restTemplate.getForObject(request, String.class);
 
@@ -37,7 +29,5 @@ public class SendFlexQueryRequest {
 
         return referenceCode;
 
+        }
     }
-
-
-}

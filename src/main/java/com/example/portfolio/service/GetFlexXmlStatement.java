@@ -37,9 +37,26 @@ public class GetFlexXmlStatement {
 
         String request = String.format("%s?t=%s&q=%s&v=3",ibkrGetStatementUrl, flexToken, referenceCode);
 
-        String flexXmlStatementResponse = restTemplate.getForObject(request, String.class);
+        int retry =1;
 
-        return flexXmlStatementResponse;
+        while (true) {
+
+            String flexXmlStatementResponse = restTemplate.getForObject(request, String.class);
+
+            if (!flexXmlStatementResponse.contains("<ErrorMessage>Statement generation in progress. Please try again shortly.</ErrorMessage>")){
+
+                return flexXmlStatementResponse;
+            }
+
+            System.out.println("Retry: "+retry);
+            retry+=1;
+
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
     }
 
     @PostConstruct
