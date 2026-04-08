@@ -46,7 +46,7 @@ jobs:
           path: src/main/resources/
 
       - name: Compile Jar
-        run: mvn clean package -Dspring.profiles.active=test -DskipTests --fail-at-end -X
+        run: mvn clean package -Dspring.profiles.active=test --fail-at-end -X
 
       - name: Upload Jar
         uses: actions/upload-artifact@v4
