@@ -16,7 +16,6 @@ import java.nio.charset.StandardCharsets;
 import java.io.IOException;
 
 @Service
-@Profile("prod")
 public class GetFlexXmlStatement {
 
     @Value("${ibkr.flex.token}")
