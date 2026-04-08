@@ -53,3 +53,33 @@ jobs:
         with:
           name: jar-file
           path: target/*.jar
+
+  upload:
+    name: GCP ArtifactRegistry Upload
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Download Jar
+        uses: actions/download-artifact@v4
+        with:
+          name: jar-file
+          path: target/
+
+      - name: Authenticate to GCP
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ secrets.GCP_AUTH_KEY }}
+
+      - name: Configure Docker for Artifact Registry
+        run: gcloud auth configure-docker europe-central2-docker.pkg.dev
+
+      - name: Build Docker Image
+        run: |
+          docker build -t europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:latest .
+
+      - name: Push Docker Image
+        run: |
+          docker push europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:latest
