@@ -13,8 +13,7 @@ public class SendFlexQueryRequest {
     @Value("${ibkr.flex.query.id}")
     private String flexQueryId;
 
-    @Value("${ibkr.send.request.url}")
-    private String ibkrSendRequestUrl;
+    private String ibkrSendRequestUrl = "https://ndcdyn.interactivebrokers.com/AccountManagement/FlexWebService/SendRequest" ;
 
     private final RestTemplate restTemplate = new RestTemplate();
 

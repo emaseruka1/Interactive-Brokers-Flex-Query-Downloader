@@ -4,6 +4,7 @@ import com.google.cloud.storage.BlobId;
 import com.google.cloud.storage.BlobInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import com.google.cloud.storage.Storage;
@@ -68,6 +69,7 @@ public class GetFlexXmlStatement {
         }
     }
 
+    @Profile("prod")
     public void downloadFlexXmlStatement(){
 
         String flexXmlStatementResponse = getFlexXmlStatement();
