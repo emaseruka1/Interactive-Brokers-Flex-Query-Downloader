@@ -1,0 +1,23 @@
+spring:
+  application:
+    name: ibkr_xmlFileDownloader
+
+server:
+  port: ${PORT:8080}
+
+ibkr:
+  flex:
+    token: 3603310888420181553812
+    query:
+      id: 1310106
+  send:
+    request:
+      url: https://ndcdyn.interactivebrokers.com/AccountManagement/FlexWebService/SendRequest
+  get:
+    statement:
+      url: https://gdcdyn.interactivebrokers.com/AccountManagement/FlexWebService/GetStatement
+
+flex:
+  xml:
+    download:
+      directory: E:/WebApp_Projects/Portfolio_Tracker_Project/portfolioTrackerAppData/current

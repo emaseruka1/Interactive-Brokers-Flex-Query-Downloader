@@ -1,0 +1,956 @@
+<FlexQueryResponse queryName="transactions" type="AF">
+<FlexStatements count="21">
+<FlexStatement accountId="U20961619" fromDate="20260309" toDate="20260309" period="Last30CalendarDays" whenGenerated="20260407;232329">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260309" fromCurrency="CHF" toCurrency="USD" rate="1.2865" />
+<ConversionRate reportDate="20260309" fromCurrency="MXN" toCurrency="USD" rate="0.056781" />
+<ConversionRate reportDate="20260309" fromCurrency="QAR" toCurrency="USD" rate="0.2736" />
+<ConversionRate reportDate="20260309" fromCurrency="SAR" toCurrency="USD" rate="0.26636" />
+<ConversionRate reportDate="20260309" fromCurrency="ZAR" toCurrency="USD" rate="0.0614" />
+<ConversionRate reportDate="20260309" fromCurrency="INR" toCurrency="USD" rate="0.010851" />
+<ConversionRate reportDate="20260309" fromCurrency="THB" toCurrency="USD" rate="0.031581" />
+<ConversionRate reportDate="20260309" fromCurrency="CNY" toCurrency="USD" rate="0.14477" />
+<ConversionRate reportDate="20260309" fromCurrency="AUD" toCurrency="USD" rate="0.70765" />
+<ConversionRate reportDate="20260309" fromCurrency="KRW" toCurrency="USD" rate="0.00068395" />
+<ConversionRate reportDate="20260309" fromCurrency="ILS" toCurrency="USD" rate="0.32394" />
+<ConversionRate reportDate="20260309" fromCurrency="JPY" toCurrency="USD" rate="0.0063426" />
+<ConversionRate reportDate="20260309" fromCurrency="PLN" toCurrency="USD" rate="0.2739" />
+<ConversionRate reportDate="20260309" fromCurrency="GBP" toCurrency="USD" rate="1.3441" />
+<ConversionRate reportDate="20260309" fromCurrency="IDR" toCurrency="USD" rate="0.000059032" />
+<ConversionRate reportDate="20260309" fromCurrency="HUF" toCurrency="USD" rate="0.0030005" />
+<ConversionRate reportDate="20260309" fromCurrency="KWD" toCurrency="USD" rate="3.2642" />
+<ConversionRate reportDate="20260309" fromCurrency="PHP" toCurrency="USD" rate="0.016914" />
+<ConversionRate reportDate="20260309" fromCurrency="TRY" toCurrency="USD" rate="0.022708" />
+<ConversionRate reportDate="20260309" fromCurrency="RUB" toCurrency="USD" rate="0.01278" />
+<ConversionRate reportDate="20260309" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260309" fromCurrency="TWD" toCurrency="USD" rate="0.031425" />
+<ConversionRate reportDate="20260309" fromCurrency="HKD" toCurrency="USD" rate="0.12786" />
+<ConversionRate reportDate="20260309" fromCurrency="EUR" toCurrency="USD" rate="1.1636" />
+<ConversionRate reportDate="20260309" fromCurrency="DKK" toCurrency="USD" rate="0.15576" />
+<ConversionRate reportDate="20260309" fromCurrency="CAD" toCurrency="USD" rate="0.73599" />
+<ConversionRate reportDate="20260309" fromCurrency="MYR" toCurrency="USD" rate="0.25233" />
+<ConversionRate reportDate="20260309" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260309" fromCurrency="NOK" toCurrency="USD" rate="0.10428" />
+<ConversionRate reportDate="20260309" fromCurrency="RON" toCurrency="USD" rate="0.22828" />
+<ConversionRate reportDate="20260309" fromCurrency="RUS" toCurrency="USD" rate="0.01278" />
+<ConversionRate reportDate="20260309" fromCurrency="SGD" toCurrency="USD" rate="0.78456" />
+<ConversionRate reportDate="20260309" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260309" fromCurrency="CZK" toCurrency="USD" rate="0.047736" />
+<ConversionRate reportDate="20260309" fromCurrency="SEK" toCurrency="USD" rate="0.10948" />
+<ConversionRate reportDate="20260309" fromCurrency="NZD" toCurrency="USD" rate="0.59341" />
+<ConversionRate reportDate="20260309" fromCurrency="CNH" toCurrency="USD" rate="0.14517" />
+<ConversionRate reportDate="20260309" fromCurrency="BRL" toCurrency="USD" rate="0.19384" />
+<ConversionRate reportDate="20260309" fromCurrency="BHD" toCurrency="USD" rate="2.649" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260310" toDate="20260310" period="Last30CalendarDays" whenGenerated="20260407;232329">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260310" fromCurrency="CHF" toCurrency="USD" rate="1.2844" />
+<ConversionRate reportDate="20260310" fromCurrency="MXN" toCurrency="USD" rate="0.056825" />
+<ConversionRate reportDate="20260310" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260310" fromCurrency="SAR" toCurrency="USD" rate="0.26645" />
+<ConversionRate reportDate="20260310" fromCurrency="ZAR" toCurrency="USD" rate="0.061394" />
+<ConversionRate reportDate="20260310" fromCurrency="INR" toCurrency="USD" rate="0.010873" />
+<ConversionRate reportDate="20260310" fromCurrency="THB" toCurrency="USD" rate="0.031697" />
+<ConversionRate reportDate="20260310" fromCurrency="CNY" toCurrency="USD" rate="0.14541" />
+<ConversionRate reportDate="20260310" fromCurrency="AUD" toCurrency="USD" rate="0.71193" />
+<ConversionRate reportDate="20260310" fromCurrency="KRW" toCurrency="USD" rate="0.00067869" />
+<ConversionRate reportDate="20260310" fromCurrency="ILS" toCurrency="USD" rate="0.32355" />
+<ConversionRate reportDate="20260310" fromCurrency="JPY" toCurrency="USD" rate="0.0063269" />
+<ConversionRate reportDate="20260310" fromCurrency="PLN" toCurrency="USD" rate="0.2721" />
+<ConversionRate reportDate="20260310" fromCurrency="GBP" toCurrency="USD" rate="1.3417" />
+<ConversionRate reportDate="20260310" fromCurrency="IDR" toCurrency="USD" rate="0.000059321" />
+<ConversionRate reportDate="20260310" fromCurrency="HUF" toCurrency="USD" rate="0.0030014" />
+<ConversionRate reportDate="20260310" fromCurrency="KWD" toCurrency="USD" rate="3.2664" />
+<ConversionRate reportDate="20260310" fromCurrency="PHP" toCurrency="USD" rate="0.01696" />
+<ConversionRate reportDate="20260310" fromCurrency="TRY" toCurrency="USD" rate="0.022694" />
+<ConversionRate reportDate="20260310" fromCurrency="RUB" toCurrency="USD" rate="0.01265" />
+<ConversionRate reportDate="20260310" fromCurrency="AED" toCurrency="USD" rate="0.27226" />
+<ConversionRate reportDate="20260310" fromCurrency="TWD" toCurrency="USD" rate="0.031463" />
+<ConversionRate reportDate="20260310" fromCurrency="HKD" toCurrency="USD" rate="0.12781" />
+<ConversionRate reportDate="20260310" fromCurrency="EUR" toCurrency="USD" rate="1.161" />
+<ConversionRate reportDate="20260310" fromCurrency="DKK" toCurrency="USD" rate="0.15538" />
+<ConversionRate reportDate="20260310" fromCurrency="CAD" toCurrency="USD" rate="0.73638" />
+<ConversionRate reportDate="20260310" fromCurrency="MYR" toCurrency="USD" rate="0.25478" />
+<ConversionRate reportDate="20260310" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260310" fromCurrency="NOK" toCurrency="USD" rate="0.10373" />
+<ConversionRate reportDate="20260310" fromCurrency="RON" toCurrency="USD" rate="0.22813" />
+<ConversionRate reportDate="20260310" fromCurrency="RUS" toCurrency="USD" rate="0.01265" />
+<ConversionRate reportDate="20260310" fromCurrency="SGD" toCurrency="USD" rate="0.78537" />
+<ConversionRate reportDate="20260310" fromCurrency="OMR" toCurrency="USD" rate="2.5972" />
+<ConversionRate reportDate="20260310" fromCurrency="CZK" toCurrency="USD" rate="0.04757" />
+<ConversionRate reportDate="20260310" fromCurrency="SEK" toCurrency="USD" rate="0.10889" />
+<ConversionRate reportDate="20260310" fromCurrency="NZD" toCurrency="USD" rate="0.5929" />
+<ConversionRate reportDate="20260310" fromCurrency="CNH" toCurrency="USD" rate="0.14534" />
+<ConversionRate reportDate="20260310" fromCurrency="BRL" toCurrency="USD" rate="0.19382" />
+<ConversionRate reportDate="20260310" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260311" toDate="20260311" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260311" fromCurrency="CHF" toCurrency="USD" rate="1.2811" />
+<ConversionRate reportDate="20260311" fromCurrency="MXN" toCurrency="USD" rate="0.056578" />
+<ConversionRate reportDate="20260311" fromCurrency="QAR" toCurrency="USD" rate="0.27442" />
+<ConversionRate reportDate="20260311" fromCurrency="SAR" toCurrency="USD" rate="0.26648" />
+<ConversionRate reportDate="20260311" fromCurrency="ZAR" toCurrency="USD" rate="0.060641" />
+<ConversionRate reportDate="20260311" fromCurrency="INR" toCurrency="USD" rate="0.010842" />
+<ConversionRate reportDate="20260311" fromCurrency="THB" toCurrency="USD" rate="0.031377" />
+<ConversionRate reportDate="20260311" fromCurrency="CNY" toCurrency="USD" rate="0.14564" />
+<ConversionRate reportDate="20260311" fromCurrency="AUD" toCurrency="USD" rate="0.71522" />
+<ConversionRate reportDate="20260311" fromCurrency="KRW" toCurrency="USD" rate="0.00067642" />
+<ConversionRate reportDate="20260311" fromCurrency="ILS" toCurrency="USD" rate="0.32024" />
+<ConversionRate reportDate="20260311" fromCurrency="JPY" toCurrency="USD" rate="0.0062911" />
+<ConversionRate reportDate="20260311" fromCurrency="PLN" toCurrency="USD" rate="0.27226" />
+<ConversionRate reportDate="20260311" fromCurrency="GBP" toCurrency="USD" rate="1.3412" />
+<ConversionRate reportDate="20260311" fromCurrency="IDR" toCurrency="USD" rate="0.000059277" />
+<ConversionRate reportDate="20260311" fromCurrency="HUF" toCurrency="USD" rate="0.0029832" />
+<ConversionRate reportDate="20260311" fromCurrency="KWD" toCurrency="USD" rate="3.2664" />
+<ConversionRate reportDate="20260311" fromCurrency="PHP" toCurrency="USD" rate="0.016889" />
+<ConversionRate reportDate="20260311" fromCurrency="TRY" toCurrency="USD" rate="0.022685" />
+<ConversionRate reportDate="20260311" fromCurrency="RUB" toCurrency="USD" rate="0.012633" />
+<ConversionRate reportDate="20260311" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260311" fromCurrency="TWD" toCurrency="USD" rate="0.031452" />
+<ConversionRate reportDate="20260311" fromCurrency="HKD" toCurrency="USD" rate="0.12779" />
+<ConversionRate reportDate="20260311" fromCurrency="EUR" toCurrency="USD" rate="1.1567" />
+<ConversionRate reportDate="20260311" fromCurrency="DKK" toCurrency="USD" rate="0.15481" />
+<ConversionRate reportDate="20260311" fromCurrency="CAD" toCurrency="USD" rate="0.73571" />
+<ConversionRate reportDate="20260311" fromCurrency="MYR" toCurrency="USD" rate="0.25533" />
+<ConversionRate reportDate="20260311" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260311" fromCurrency="NOK" toCurrency="USD" rate="0.10363" />
+<ConversionRate reportDate="20260311" fromCurrency="RON" toCurrency="USD" rate="0.22721" />
+<ConversionRate reportDate="20260311" fromCurrency="RUS" toCurrency="USD" rate="0.012633" />
+<ConversionRate reportDate="20260311" fromCurrency="SGD" toCurrency="USD" rate="0.78478" />
+<ConversionRate reportDate="20260311" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260311" fromCurrency="CZK" toCurrency="USD" rate="0.047421" />
+<ConversionRate reportDate="20260311" fromCurrency="SEK" toCurrency="USD" rate="0.10835" />
+<ConversionRate reportDate="20260311" fromCurrency="NZD" toCurrency="USD" rate="0.59137" />
+<ConversionRate reportDate="20260311" fromCurrency="CNH" toCurrency="USD" rate="0.14542" />
+<ConversionRate reportDate="20260311" fromCurrency="BRL" toCurrency="USD" rate="0.1939" />
+<ConversionRate reportDate="20260311" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260312" toDate="20260312" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260312" fromCurrency="CHF" toCurrency="USD" rate="1.2721" />
+<ConversionRate reportDate="20260312" fromCurrency="MXN" toCurrency="USD" rate="0.055972" />
+<ConversionRate reportDate="20260312" fromCurrency="QAR" toCurrency="USD" rate="0.2743" />
+<ConversionRate reportDate="20260312" fromCurrency="SAR" toCurrency="USD" rate="0.26648" />
+<ConversionRate reportDate="20260312" fromCurrency="ZAR" toCurrency="USD" rate="0.059541" />
+<ConversionRate reportDate="20260312" fromCurrency="INR" toCurrency="USD" rate="0.010824" />
+<ConversionRate reportDate="20260312" fromCurrency="THB" toCurrency="USD" rate="0.031069" />
+<ConversionRate reportDate="20260312" fromCurrency="CNY" toCurrency="USD" rate="0.14558" />
+<ConversionRate reportDate="20260312" fromCurrency="AUD" toCurrency="USD" rate="0.70763" />
+<ConversionRate reportDate="20260312" fromCurrency="KRW" toCurrency="USD" rate="0.00066967" />
+<ConversionRate reportDate="20260312" fromCurrency="ILS" toCurrency="USD" rate="0.3182" />
+<ConversionRate reportDate="20260312" fromCurrency="JPY" toCurrency="USD" rate="0.0062754" />
+<ConversionRate reportDate="20260312" fromCurrency="PLN" toCurrency="USD" rate="0.26927" />
+<ConversionRate reportDate="20260312" fromCurrency="GBP" toCurrency="USD" rate="1.3343" />
+<ConversionRate reportDate="20260312" fromCurrency="IDR" toCurrency="USD" rate="0.000059207" />
+<ConversionRate reportDate="20260312" fromCurrency="HUF" toCurrency="USD" rate="0.0029336" />
+<ConversionRate reportDate="20260312" fromCurrency="KWD" toCurrency="USD" rate="3.2626" />
+<ConversionRate reportDate="20260312" fromCurrency="PHP" toCurrency="USD" rate="0.016824" />
+<ConversionRate reportDate="20260312" fromCurrency="TRY" toCurrency="USD" rate="0.022655" />
+<ConversionRate reportDate="20260312" fromCurrency="RUB" toCurrency="USD" rate="0.012579" />
+<ConversionRate reportDate="20260312" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260312" fromCurrency="TWD" toCurrency="USD" rate="0.031339" />
+<ConversionRate reportDate="20260312" fromCurrency="HKD" toCurrency="USD" rate="0.12777" />
+<ConversionRate reportDate="20260312" fromCurrency="EUR" toCurrency="USD" rate="1.1511" />
+<ConversionRate reportDate="20260312" fromCurrency="DKK" toCurrency="USD" rate="0.15405" />
+<ConversionRate reportDate="20260312" fromCurrency="CAD" toCurrency="USD" rate="0.73316" />
+<ConversionRate reportDate="20260312" fromCurrency="MYR" toCurrency="USD" rate="0.25465" />
+<ConversionRate reportDate="20260312" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260312" fromCurrency="NOK" toCurrency="USD" rate="0.10301" />
+<ConversionRate reportDate="20260312" fromCurrency="RON" toCurrency="USD" rate="0.22596" />
+<ConversionRate reportDate="20260312" fromCurrency="RUS" toCurrency="USD" rate="0.012579" />
+<ConversionRate reportDate="20260312" fromCurrency="SGD" toCurrency="USD" rate="0.78183" />
+<ConversionRate reportDate="20260312" fromCurrency="OMR" toCurrency="USD" rate="2.5975" />
+<ConversionRate reportDate="20260312" fromCurrency="CZK" toCurrency="USD" rate="0.047073" />
+<ConversionRate reportDate="20260312" fromCurrency="SEK" toCurrency="USD" rate="0.1069" />
+<ConversionRate reportDate="20260312" fromCurrency="NZD" toCurrency="USD" rate="0.58542" />
+<ConversionRate reportDate="20260312" fromCurrency="CNH" toCurrency="USD" rate="0.14531" />
+<ConversionRate reportDate="20260312" fromCurrency="BRL" toCurrency="USD" rate="0.19067" />
+<ConversionRate reportDate="20260312" fromCurrency="BHD" toCurrency="USD" rate="2.6483" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260313" toDate="20260313" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260313" fromCurrency="CHF" toCurrency="USD" rate="1.2636" />
+<ConversionRate reportDate="20260313" fromCurrency="MXN" toCurrency="USD" rate="0.055721" />
+<ConversionRate reportDate="20260313" fromCurrency="QAR" toCurrency="USD" rate="0.27442" />
+<ConversionRate reportDate="20260313" fromCurrency="SAR" toCurrency="USD" rate="0.2665" />
+<ConversionRate reportDate="20260313" fromCurrency="ZAR" toCurrency="USD" rate="0.059042" />
+<ConversionRate reportDate="20260313" fromCurrency="INR" toCurrency="USD" rate="0.010806" />
+<ConversionRate reportDate="20260313" fromCurrency="THB" toCurrency="USD" rate="0.030825" />
+<ConversionRate reportDate="20260313" fromCurrency="CNY" toCurrency="USD" rate="0.145" />
+<ConversionRate reportDate="20260313" fromCurrency="AUD" toCurrency="USD" rate="0.69811" />
+<ConversionRate reportDate="20260313" fromCurrency="KRW" toCurrency="USD" rate="0.0006668" />
+<ConversionRate reportDate="20260313" fromCurrency="ILS" toCurrency="USD" rate="0.31804" />
+<ConversionRate reportDate="20260313" fromCurrency="JPY" toCurrency="USD" rate="0.0062605" />
+<ConversionRate reportDate="20260313" fromCurrency="PLN" toCurrency="USD" rate="0.26678" />
+<ConversionRate reportDate="20260313" fromCurrency="GBP" toCurrency="USD" rate="1.3226" />
+<ConversionRate reportDate="20260313" fromCurrency="IDR" toCurrency="USD" rate="0.000059032" />
+<ConversionRate reportDate="20260313" fromCurrency="HUF" toCurrency="USD" rate="0.0029018" />
+<ConversionRate reportDate="20260313" fromCurrency="KWD" toCurrency="USD" rate="3.2626" />
+<ConversionRate reportDate="20260313" fromCurrency="PHP" toCurrency="USD" rate="0.01673" />
+<ConversionRate reportDate="20260313" fromCurrency="TRY" toCurrency="USD" rate="0.022625" />
+<ConversionRate reportDate="20260313" fromCurrency="RUB" toCurrency="USD" rate="0.012484" />
+<ConversionRate reportDate="20260313" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260313" fromCurrency="TWD" toCurrency="USD" rate="0.031139" />
+<ConversionRate reportDate="20260313" fromCurrency="HKD" toCurrency="USD" rate="0.12775" />
+<ConversionRate reportDate="20260313" fromCurrency="EUR" toCurrency="USD" rate="1.1417" />
+<ConversionRate reportDate="20260313" fromCurrency="DKK" toCurrency="USD" rate="0.15278" />
+<ConversionRate reportDate="20260313" fromCurrency="CAD" toCurrency="USD" rate="0.72892" />
+<ConversionRate reportDate="20260313" fromCurrency="MYR" toCurrency="USD" rate="0.2539" />
+<ConversionRate reportDate="20260313" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260313" fromCurrency="NOK" toCurrency="USD" rate="0.10234" />
+<ConversionRate reportDate="20260313" fromCurrency="RON" toCurrency="USD" rate="0.2241" />
+<ConversionRate reportDate="20260313" fromCurrency="RUS" toCurrency="USD" rate="0.012484" />
+<ConversionRate reportDate="20260313" fromCurrency="SGD" toCurrency="USD" rate="0.779" />
+<ConversionRate reportDate="20260313" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260313" fromCurrency="CZK" toCurrency="USD" rate="0.046663" />
+<ConversionRate reportDate="20260313" fromCurrency="SEK" toCurrency="USD" rate="0.10547" />
+<ConversionRate reportDate="20260313" fromCurrency="NZD" toCurrency="USD" rate="0.57747" />
+<ConversionRate reportDate="20260313" fromCurrency="CNH" toCurrency="USD" rate="0.1448" />
+<ConversionRate reportDate="20260313" fromCurrency="BRL" toCurrency="USD" rate="0.18784" />
+<ConversionRate reportDate="20260313" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260316" toDate="20260316" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260316" fromCurrency="CHF" toCurrency="USD" rate="1.2695" />
+<ConversionRate reportDate="20260316" fromCurrency="MXN" toCurrency="USD" rate="0.05654" />
+<ConversionRate reportDate="20260316" fromCurrency="QAR" toCurrency="USD" rate="0.2736" />
+<ConversionRate reportDate="20260316" fromCurrency="SAR" toCurrency="USD" rate="0.26649" />
+<ConversionRate reportDate="20260316" fromCurrency="ZAR" toCurrency="USD" rate="0.059964" />
+<ConversionRate reportDate="20260316" fromCurrency="INR" toCurrency="USD" rate="0.010839" />
+<ConversionRate reportDate="20260316" fromCurrency="THB" toCurrency="USD" rate="0.030945" />
+<ConversionRate reportDate="20260316" fromCurrency="CNY" toCurrency="USD" rate="0.14501" />
+<ConversionRate reportDate="20260316" fromCurrency="AUD" toCurrency="USD" rate="0.70716" />
+<ConversionRate reportDate="20260316" fromCurrency="KRW" toCurrency="USD" rate="0.00067126" />
+<ConversionRate reportDate="20260316" fromCurrency="ILS" toCurrency="USD" rate="0.32037" />
+<ConversionRate reportDate="20260316" fromCurrency="JPY" toCurrency="USD" rate="0.0062873" />
+<ConversionRate reportDate="20260316" fromCurrency="PLN" toCurrency="USD" rate="0.26959" />
+<ConversionRate reportDate="20260316" fromCurrency="GBP" toCurrency="USD" rate="1.3319" />
+<ConversionRate reportDate="20260316" fromCurrency="IDR" toCurrency="USD" rate="0.000058858" />
+<ConversionRate reportDate="20260316" fromCurrency="HUF" toCurrency="USD" rate="0.002948" />
+<ConversionRate reportDate="20260316" fromCurrency="KWD" toCurrency="USD" rate="3.2573" />
+<ConversionRate reportDate="20260316" fromCurrency="PHP" toCurrency="USD" rate="0.01675" />
+<ConversionRate reportDate="20260316" fromCurrency="TRY" toCurrency="USD" rate="0.022643" />
+<ConversionRate reportDate="20260316" fromCurrency="RUB" toCurrency="USD" rate="0.012268" />
+<ConversionRate reportDate="20260316" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260316" fromCurrency="TWD" toCurrency="USD" rate="0.031285" />
+<ConversionRate reportDate="20260316" fromCurrency="HKD" toCurrency="USD" rate="0.12771" />
+<ConversionRate reportDate="20260316" fromCurrency="EUR" toCurrency="USD" rate="1.1505" />
+<ConversionRate reportDate="20260316" fromCurrency="DKK" toCurrency="USD" rate="0.15398" />
+<ConversionRate reportDate="20260316" fromCurrency="CAD" toCurrency="USD" rate="0.73069" />
+<ConversionRate reportDate="20260316" fromCurrency="MYR" toCurrency="USD" rate="0.25442" />
+<ConversionRate reportDate="20260316" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260316" fromCurrency="NOK" toCurrency="USD" rate="0.10338" />
+<ConversionRate reportDate="20260316" fromCurrency="RON" toCurrency="USD" rate="0.22583" />
+<ConversionRate reportDate="20260316" fromCurrency="RUS" toCurrency="USD" rate="0.012268" />
+<ConversionRate reportDate="20260316" fromCurrency="SGD" toCurrency="USD" rate="0.78256" />
+<ConversionRate reportDate="20260316" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260316" fromCurrency="CZK" toCurrency="USD" rate="0.047075" />
+<ConversionRate reportDate="20260316" fromCurrency="SEK" toCurrency="USD" rate="0.10701" />
+<ConversionRate reportDate="20260316" fromCurrency="NZD" toCurrency="USD" rate="0.58607" />
+<ConversionRate reportDate="20260316" fromCurrency="CNH" toCurrency="USD" rate="0.14517" />
+<ConversionRate reportDate="20260316" fromCurrency="BRL" toCurrency="USD" rate="0.19116" />
+<ConversionRate reportDate="20260316" fromCurrency="BHD" toCurrency="USD" rate="2.649" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260317" toDate="20260317" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260317" fromCurrency="CHF" toCurrency="USD" rate="1.2744" />
+<ConversionRate reportDate="20260317" fromCurrency="MXN" toCurrency="USD" rate="0.056626" />
+<ConversionRate reportDate="20260317" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260317" fromCurrency="SAR" toCurrency="USD" rate="0.26632" />
+<ConversionRate reportDate="20260317" fromCurrency="ZAR" toCurrency="USD" rate="0.059998" />
+<ConversionRate reportDate="20260317" fromCurrency="INR" toCurrency="USD" rate="0.010823" />
+<ConversionRate reportDate="20260317" fromCurrency="THB" toCurrency="USD" rate="0.030941" />
+<ConversionRate reportDate="20260317" fromCurrency="CNY" toCurrency="USD" rate="0.1452" />
+<ConversionRate reportDate="20260317" fromCurrency="AUD" toCurrency="USD" rate="0.71049" />
+<ConversionRate reportDate="20260317" fromCurrency="KRW" toCurrency="USD" rate="0.0006721" />
+<ConversionRate reportDate="20260317" fromCurrency="ILS" toCurrency="USD" rate="0.32327" />
+<ConversionRate reportDate="20260317" fromCurrency="JPY" toCurrency="USD" rate="0.0062892" />
+<ConversionRate reportDate="20260317" fromCurrency="PLN" toCurrency="USD" rate="0.27083" />
+<ConversionRate reportDate="20260317" fromCurrency="GBP" toCurrency="USD" rate="1.3356" />
+<ConversionRate reportDate="20260317" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260317" fromCurrency="HUF" toCurrency="USD" rate="0.0029699" />
+<ConversionRate reportDate="20260317" fromCurrency="KWD" toCurrency="USD" rate="3.2595" />
+<ConversionRate reportDate="20260317" fromCurrency="PHP" toCurrency="USD" rate="0.01675" />
+<ConversionRate reportDate="20260317" fromCurrency="TRY" toCurrency="USD" rate="0.02263" />
+<ConversionRate reportDate="20260317" fromCurrency="RUB" toCurrency="USD" rate="0.01214" />
+<ConversionRate reportDate="20260317" fromCurrency="AED" toCurrency="USD" rate="0.27228" />
+<ConversionRate reportDate="20260317" fromCurrency="TWD" toCurrency="USD" rate="0.031373" />
+<ConversionRate reportDate="20260317" fromCurrency="HKD" toCurrency="USD" rate="0.12761" />
+<ConversionRate reportDate="20260317" fromCurrency="EUR" toCurrency="USD" rate="1.1541" />
+<ConversionRate reportDate="20260317" fromCurrency="DKK" toCurrency="USD" rate="0.15444" />
+<ConversionRate reportDate="20260317" fromCurrency="CAD" toCurrency="USD" rate="0.73043" />
+<ConversionRate reportDate="20260317" fromCurrency="MYR" toCurrency="USD" rate="0.25481" />
+<ConversionRate reportDate="20260317" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260317" fromCurrency="NOK" toCurrency="USD" rate="0.10439" />
+<ConversionRate reportDate="20260317" fromCurrency="RON" toCurrency="USD" rate="0.2266" />
+<ConversionRate reportDate="20260317" fromCurrency="RUS" toCurrency="USD" rate="0.01214" />
+<ConversionRate reportDate="20260317" fromCurrency="SGD" toCurrency="USD" rate="0.78345" />
+<ConversionRate reportDate="20260317" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260317" fromCurrency="CZK" toCurrency="USD" rate="0.047236" />
+<ConversionRate reportDate="20260317" fromCurrency="SEK" toCurrency="USD" rate="0.10777" />
+<ConversionRate reportDate="20260317" fromCurrency="NZD" toCurrency="USD" rate="0.58582" />
+<ConversionRate reportDate="20260317" fromCurrency="CNH" toCurrency="USD" rate="0.14529" />
+<ConversionRate reportDate="20260317" fromCurrency="BRL" toCurrency="USD" rate="0.19257" />
+<ConversionRate reportDate="20260317" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260318" toDate="20260318" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260318" fromCurrency="CHF" toCurrency="USD" rate="1.2606" />
+<ConversionRate reportDate="20260318" fromCurrency="MXN" toCurrency="USD" rate="0.05598" />
+<ConversionRate reportDate="20260318" fromCurrency="QAR" toCurrency="USD" rate="0.2736" />
+<ConversionRate reportDate="20260318" fromCurrency="SAR" toCurrency="USD" rate="0.26637" />
+<ConversionRate reportDate="20260318" fromCurrency="ZAR" toCurrency="USD" rate="0.05885" />
+<ConversionRate reportDate="20260318" fromCurrency="INR" toCurrency="USD" rate="0.010738" />
+<ConversionRate reportDate="20260318" fromCurrency="THB" toCurrency="USD" rate="0.030499" />
+<ConversionRate reportDate="20260318" fromCurrency="CNY" toCurrency="USD" rate="0.1455" />
+<ConversionRate reportDate="20260318" fromCurrency="AUD" toCurrency="USD" rate="0.70236" />
+<ConversionRate reportDate="20260318" fromCurrency="KRW" toCurrency="USD" rate="0.00066296" />
+<ConversionRate reportDate="20260318" fromCurrency="ILS" toCurrency="USD" rate="0.32016" />
+<ConversionRate reportDate="20260318" fromCurrency="JPY" toCurrency="USD" rate="0.0062546" />
+<ConversionRate reportDate="20260318" fromCurrency="PLN" toCurrency="USD" rate="0.2677" />
+<ConversionRate reportDate="20260318" fromCurrency="GBP" toCurrency="USD" rate="1.3258" />
+<ConversionRate reportDate="20260318" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260318" fromCurrency="HUF" toCurrency="USD" rate="0.0029093" />
+<ConversionRate reportDate="20260318" fromCurrency="KWD" toCurrency="USD" rate="3.2616" />
+<ConversionRate reportDate="20260318" fromCurrency="PHP" toCurrency="USD" rate="0.016744" />
+<ConversionRate reportDate="20260318" fromCurrency="TRY" toCurrency="USD" rate="0.022619" />
+<ConversionRate reportDate="20260318" fromCurrency="RUB" toCurrency="USD" rate="0.011923" />
+<ConversionRate reportDate="20260318" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260318" fromCurrency="TWD" toCurrency="USD" rate="0.031233" />
+<ConversionRate reportDate="20260318" fromCurrency="HKD" toCurrency="USD" rate="0.12757" />
+<ConversionRate reportDate="20260318" fromCurrency="EUR" toCurrency="USD" rate="1.1452" />
+<ConversionRate reportDate="20260318" fromCurrency="DKK" toCurrency="USD" rate="0.15325" />
+<ConversionRate reportDate="20260318" fromCurrency="CAD" toCurrency="USD" rate="0.72819" />
+<ConversionRate reportDate="20260318" fromCurrency="MYR" toCurrency="USD" rate="0.25533" />
+<ConversionRate reportDate="20260318" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260318" fromCurrency="NOK" toCurrency="USD" rate="0.10402" />
+<ConversionRate reportDate="20260318" fromCurrency="RON" toCurrency="USD" rate="0.22488" />
+<ConversionRate reportDate="20260318" fromCurrency="RUS" toCurrency="USD" rate="0.011923" />
+<ConversionRate reportDate="20260318" fromCurrency="SGD" toCurrency="USD" rate="0.77884" />
+<ConversionRate reportDate="20260318" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260318" fromCurrency="CZK" toCurrency="USD" rate="0.046754" />
+<ConversionRate reportDate="20260318" fromCurrency="SEK" toCurrency="USD" rate="0.10613" />
+<ConversionRate reportDate="20260318" fromCurrency="NZD" toCurrency="USD" rate="0.57965" />
+<ConversionRate reportDate="20260318" fromCurrency="CNH" toCurrency="USD" rate="0.14491" />
+<ConversionRate reportDate="20260318" fromCurrency="BRL" toCurrency="USD" rate="0.18982" />
+<ConversionRate reportDate="20260318" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260319" toDate="20260319" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+<AssetSummary tradeDate="" fxRateToBase="" assetCategory="CASH" symbol="" description="" quantity="" tradePrice="" tradeMoney="" ibCommission="0" netCash="" orderType="" />
+<SymbolSummary tradeDate="20260319" fxRateToBase="" assetCategory="CASH" symbol="USD.PLN" description="USD.PLN" quantity="0.18669867" tradePrice="3.68379692" tradeMoney="0.68776" ibCommission="0" netCash="0" orderType="" />
+<Order tradeDate="20260319" fxRateToBase="0.27154" assetCategory="CASH" symbol="USD.PLN" description="USD.PLN" quantity="0.18669867" tradePrice="3.68379692" tradeMoney="0.68776" ibCommission="0" netCash="0" orderType="" />
+<Trade tradeDate="20260319" fxRateToBase="0.27154" assetCategory="CASH" symbol="USD.PLN" description="USD.PLN" quantity="0.18669867" tradePrice="3.68379692" tradeMoney="0.68776" ibCommission="0" netCash="0" orderType="" />
+</Trades><CashTransactions>
+<CashTransaction currency="PLN" fxRateToBase="0.27154" description="DISBURSEMENT INITIATED BY EMMANUEL M MASERUKA" dateTime="20260319" amount="-200" type="Deposits/Withdrawals" />
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260319" fromCurrency="CHF" toCurrency="USD" rate="1.2688" />
+<ConversionRate reportDate="20260319" fromCurrency="MXN" toCurrency="USD" rate="0.05638" />
+<ConversionRate reportDate="20260319" fromCurrency="QAR" toCurrency="USD" rate="0.27439" />
+<ConversionRate reportDate="20260319" fromCurrency="SAR" toCurrency="USD" rate="0.26635" />
+<ConversionRate reportDate="20260319" fromCurrency="ZAR" toCurrency="USD" rate="0.059676" />
+<ConversionRate reportDate="20260319" fromCurrency="INR" toCurrency="USD" rate="0.010763" />
+<ConversionRate reportDate="20260319" fromCurrency="THB" toCurrency="USD" rate="0.030797" />
+<ConversionRate reportDate="20260319" fromCurrency="CNY" toCurrency="USD" rate="0.14492" />
+<ConversionRate reportDate="20260319" fromCurrency="AUD" toCurrency="USD" rate="0.70874" />
+<ConversionRate reportDate="20260319" fromCurrency="KRW" toCurrency="USD" rate="0.00067142" />
+<ConversionRate reportDate="20260319" fromCurrency="ILS" toCurrency="USD" rate="0.32155" />
+<ConversionRate reportDate="20260319" fromCurrency="JPY" toCurrency="USD" rate="0.0063408" />
+<ConversionRate reportDate="20260319" fromCurrency="PLN" toCurrency="USD" rate="0.27154" />
+<ConversionRate reportDate="20260319" fromCurrency="GBP" toCurrency="USD" rate="1.3431" />
+<ConversionRate reportDate="20260319" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260319" fromCurrency="HUF" toCurrency="USD" rate="0.0029664" />
+<ConversionRate reportDate="20260319" fromCurrency="KWD" toCurrency="USD" rate="3.2616" />
+<ConversionRate reportDate="20260319" fromCurrency="PHP" toCurrency="USD" rate="0.016711" />
+<ConversionRate reportDate="20260319" fromCurrency="TRY" toCurrency="USD" rate="0.022576" />
+<ConversionRate reportDate="20260319" fromCurrency="RUB" toCurrency="USD" rate="0.011608" />
+<ConversionRate reportDate="20260319" fromCurrency="AED" toCurrency="USD" rate="0.27223" />
+<ConversionRate reportDate="20260319" fromCurrency="TWD" toCurrency="USD" rate="0.031402" />
+<ConversionRate reportDate="20260319" fromCurrency="HKD" toCurrency="USD" rate="0.12765" />
+<ConversionRate reportDate="20260319" fromCurrency="EUR" toCurrency="USD" rate="1.1589" />
+<ConversionRate reportDate="20260319" fromCurrency="DKK" toCurrency="USD" rate="0.15512" />
+<ConversionRate reportDate="20260319" fromCurrency="CAD" toCurrency="USD" rate="0.72785" />
+<ConversionRate reportDate="20260319" fromCurrency="MYR" toCurrency="USD" rate="0.25384" />
+<ConversionRate reportDate="20260319" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260319" fromCurrency="NOK" toCurrency="USD" rate="0.10544" />
+<ConversionRate reportDate="20260319" fromCurrency="RON" toCurrency="USD" rate="0.22749" />
+<ConversionRate reportDate="20260319" fromCurrency="RUS" toCurrency="USD" rate="0.011608" />
+<ConversionRate reportDate="20260319" fromCurrency="SGD" toCurrency="USD" rate="0.78291" />
+<ConversionRate reportDate="20260319" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260319" fromCurrency="CZK" toCurrency="USD" rate="0.047357" />
+<ConversionRate reportDate="20260319" fromCurrency="SEK" toCurrency="USD" rate="0.10767" />
+<ConversionRate reportDate="20260319" fromCurrency="NZD" toCurrency="USD" rate="0.58745" />
+<ConversionRate reportDate="20260319" fromCurrency="CNH" toCurrency="USD" rate="0.14534" />
+<ConversionRate reportDate="20260319" fromCurrency="BRL" toCurrency="USD" rate="0.19154" />
+<ConversionRate reportDate="20260319" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260320" toDate="20260320" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260320" fromCurrency="CHF" toCurrency="USD" rate="1.269" />
+<ConversionRate reportDate="20260320" fromCurrency="MXN" toCurrency="USD" rate="0.055811" />
+<ConversionRate reportDate="20260320" fromCurrency="QAR" toCurrency="USD" rate="0.2736" />
+<ConversionRate reportDate="20260320" fromCurrency="SAR" toCurrency="USD" rate="0.26633" />
+<ConversionRate reportDate="20260320" fromCurrency="ZAR" toCurrency="USD" rate="0.058794" />
+<ConversionRate reportDate="20260320" fromCurrency="INR" toCurrency="USD" rate="0.010673" />
+<ConversionRate reportDate="20260320" fromCurrency="THB" toCurrency="USD" rate="0.030437" />
+<ConversionRate reportDate="20260320" fromCurrency="CNY" toCurrency="USD" rate="0.14521" />
+<ConversionRate reportDate="20260320" fromCurrency="AUD" toCurrency="USD" rate="0.70226" />
+<ConversionRate reportDate="20260320" fromCurrency="KRW" toCurrency="USD" rate="0.00066432" />
+<ConversionRate reportDate="20260320" fromCurrency="ILS" toCurrency="USD" rate="0.31925" />
+<ConversionRate reportDate="20260320" fromCurrency="JPY" toCurrency="USD" rate="0.0062802" />
+<ConversionRate reportDate="20260320" fromCurrency="PLN" toCurrency="USD" rate="0.27063" />
+<ConversionRate reportDate="20260320" fromCurrency="GBP" toCurrency="USD" rate="1.3341" />
+<ConversionRate reportDate="20260320" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260320" fromCurrency="HUF" toCurrency="USD" rate="0.0029422" />
+<ConversionRate reportDate="20260320" fromCurrency="KWD" toCurrency="USD" rate="3.2616" />
+<ConversionRate reportDate="20260320" fromCurrency="PHP" toCurrency="USD" rate="0.016711" />
+<ConversionRate reportDate="20260320" fromCurrency="TRY" toCurrency="USD" rate="0.022575" />
+<ConversionRate reportDate="20260320" fromCurrency="RUB" toCurrency="USD" rate="0.01203" />
+<ConversionRate reportDate="20260320" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260320" fromCurrency="TWD" toCurrency="USD" rate="0.031221" />
+<ConversionRate reportDate="20260320" fromCurrency="HKD" toCurrency="USD" rate="0.12766" />
+<ConversionRate reportDate="20260320" fromCurrency="EUR" toCurrency="USD" rate="1.1571" />
+<ConversionRate reportDate="20260320" fromCurrency="DKK" toCurrency="USD" rate="0.15486" />
+<ConversionRate reportDate="20260320" fromCurrency="CAD" toCurrency="USD" rate="0.72867" />
+<ConversionRate reportDate="20260320" fromCurrency="MYR" toCurrency="USD" rate="0.25384" />
+<ConversionRate reportDate="20260320" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260320" fromCurrency="NOK" toCurrency="USD" rate="0.10451" />
+<ConversionRate reportDate="20260320" fromCurrency="RON" toCurrency="USD" rate="0.22719" />
+<ConversionRate reportDate="20260320" fromCurrency="RUS" toCurrency="USD" rate="0.01203" />
+<ConversionRate reportDate="20260320" fromCurrency="SGD" toCurrency="USD" rate="0.7798" />
+<ConversionRate reportDate="20260320" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260320" fromCurrency="CZK" toCurrency="USD" rate="0.04729" />
+<ConversionRate reportDate="20260320" fromCurrency="SEK" toCurrency="USD" rate="0.10702" />
+<ConversionRate reportDate="20260320" fromCurrency="NZD" toCurrency="USD" rate="0.58309" />
+<ConversionRate reportDate="20260320" fromCurrency="CNH" toCurrency="USD" rate="0.1448" />
+<ConversionRate reportDate="20260320" fromCurrency="BRL" toCurrency="USD" rate="0.18818" />
+<ConversionRate reportDate="20260320" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260323" toDate="20260323" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260323" fromCurrency="CHF" toCurrency="USD" rate="1.2716" />
+<ConversionRate reportDate="20260323" fromCurrency="MXN" toCurrency="USD" rate="0.056228" />
+<ConversionRate reportDate="20260323" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260323" fromCurrency="SAR" toCurrency="USD" rate="0.26636" />
+<ConversionRate reportDate="20260323" fromCurrency="ZAR" toCurrency="USD" rate="0.059611" />
+<ConversionRate reportDate="20260323" fromCurrency="INR" toCurrency="USD" rate="0.010728" />
+<ConversionRate reportDate="20260323" fromCurrency="THB" toCurrency="USD" rate="0.030917" />
+<ConversionRate reportDate="20260323" fromCurrency="CNY" toCurrency="USD" rate="0.14532" />
+<ConversionRate reportDate="20260323" fromCurrency="AUD" toCurrency="USD" rate="0.70107" />
+<ConversionRate reportDate="20260323" fromCurrency="KRW" toCurrency="USD" rate="0.00067239" />
+<ConversionRate reportDate="20260323" fromCurrency="ILS" toCurrency="USD" rate="0.32124" />
+<ConversionRate reportDate="20260323" fromCurrency="JPY" toCurrency="USD" rate="0.0063118" />
+<ConversionRate reportDate="20260323" fromCurrency="PLN" toCurrency="USD" rate="0.27266" />
+<ConversionRate reportDate="20260323" fromCurrency="GBP" toCurrency="USD" rate="1.3427" />
+<ConversionRate reportDate="20260323" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260323" fromCurrency="HUF" toCurrency="USD" rate="0.0029948" />
+<ConversionRate reportDate="20260323" fromCurrency="KWD" toCurrency="USD" rate="3.2616" />
+<ConversionRate reportDate="20260323" fromCurrency="PHP" toCurrency="USD" rate="0.016678" />
+<ConversionRate reportDate="20260323" fromCurrency="TRY" toCurrency="USD" rate="0.022572" />
+<ConversionRate reportDate="20260323" fromCurrency="RUB" toCurrency="USD" rate="0.012206" />
+<ConversionRate reportDate="20260323" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260323" fromCurrency="TWD" toCurrency="USD" rate="0.031385" />
+<ConversionRate reportDate="20260323" fromCurrency="HKD" toCurrency="USD" rate="0.12765" />
+<ConversionRate reportDate="20260323" fromCurrency="EUR" toCurrency="USD" rate="1.1612" />
+<ConversionRate reportDate="20260323" fromCurrency="DKK" toCurrency="USD" rate="0.15542" />
+<ConversionRate reportDate="20260323" fromCurrency="CAD" toCurrency="USD" rate="0.72848" />
+<ConversionRate reportDate="20260323" fromCurrency="MYR" toCurrency="USD" rate="0.25384" />
+<ConversionRate reportDate="20260323" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260323" fromCurrency="NOK" toCurrency="USD" rate="0.10269" />
+<ConversionRate reportDate="20260323" fromCurrency="RON" toCurrency="USD" rate="0.22788" />
+<ConversionRate reportDate="20260323" fromCurrency="RUS" toCurrency="USD" rate="0.012206" />
+<ConversionRate reportDate="20260323" fromCurrency="SGD" toCurrency="USD" rate="0.78446" />
+<ConversionRate reportDate="20260323" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260323" fromCurrency="CZK" toCurrency="USD" rate="0.047482" />
+<ConversionRate reportDate="20260323" fromCurrency="SEK" toCurrency="USD" rate="0.10725" />
+<ConversionRate reportDate="20260323" fromCurrency="NZD" toCurrency="USD" rate="0.58586" />
+<ConversionRate reportDate="20260323" fromCurrency="CNH" toCurrency="USD" rate="0.14524" />
+<ConversionRate reportDate="20260323" fromCurrency="BRL" toCurrency="USD" rate="0.19102" />
+<ConversionRate reportDate="20260323" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260324" toDate="20260324" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260324" fromCurrency="CHF" toCurrency="USD" rate="1.2686" />
+<ConversionRate reportDate="20260324" fromCurrency="MXN" toCurrency="USD" rate="0.056355" />
+<ConversionRate reportDate="20260324" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260324" fromCurrency="SAR" toCurrency="USD" rate="0.2664" />
+<ConversionRate reportDate="20260324" fromCurrency="ZAR" toCurrency="USD" rate="0.058927" />
+<ConversionRate reportDate="20260324" fromCurrency="INR" toCurrency="USD" rate="0.010633" />
+<ConversionRate reportDate="20260324" fromCurrency="THB" toCurrency="USD" rate="0.030641" />
+<ConversionRate reportDate="20260324" fromCurrency="CNY" toCurrency="USD" rate="0.14509" />
+<ConversionRate reportDate="20260324" fromCurrency="AUD" toCurrency="USD" rate="0.69969" />
+<ConversionRate reportDate="20260324" fromCurrency="KRW" toCurrency="USD" rate="0.00066839" />
+<ConversionRate reportDate="20260324" fromCurrency="ILS" toCurrency="USD" rate="0.3202" />
+<ConversionRate reportDate="20260324" fromCurrency="JPY" toCurrency="USD" rate="0.006301" />
+<ConversionRate reportDate="20260324" fromCurrency="PLN" toCurrency="USD" rate="0.27175" />
+<ConversionRate reportDate="20260324" fromCurrency="GBP" toCurrency="USD" rate="1.3411" />
+<ConversionRate reportDate="20260324" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260324" fromCurrency="HUF" toCurrency="USD" rate="0.0029759" />
+<ConversionRate reportDate="20260324" fromCurrency="KWD" toCurrency="USD" rate="3.2616" />
+<ConversionRate reportDate="20260324" fromCurrency="PHP" toCurrency="USD" rate="0.016696" />
+<ConversionRate reportDate="20260324" fromCurrency="TRY" toCurrency="USD" rate="0.022551" />
+<ConversionRate reportDate="20260324" fromCurrency="RUB" toCurrency="USD" rate="0.012422" />
+<ConversionRate reportDate="20260324" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260324" fromCurrency="TWD" toCurrency="USD" rate="0.031315" />
+<ConversionRate reportDate="20260324" fromCurrency="HKD" toCurrency="USD" rate="0.12777" />
+<ConversionRate reportDate="20260324" fromCurrency="EUR" toCurrency="USD" rate="1.1607" />
+<ConversionRate reportDate="20260324" fromCurrency="DKK" toCurrency="USD" rate="0.15534" />
+<ConversionRate reportDate="20260324" fromCurrency="CAD" toCurrency="USD" rate="0.72649" />
+<ConversionRate reportDate="20260324" fromCurrency="MYR" toCurrency="USD" rate="0.25275" />
+<ConversionRate reportDate="20260324" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260324" fromCurrency="NOK" toCurrency="USD" rate="0.10314" />
+<ConversionRate reportDate="20260324" fromCurrency="RON" toCurrency="USD" rate="0.22781" />
+<ConversionRate reportDate="20260324" fromCurrency="RUS" toCurrency="USD" rate="0.012422" />
+<ConversionRate reportDate="20260324" fromCurrency="SGD" toCurrency="USD" rate="0.78248" />
+<ConversionRate reportDate="20260324" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260324" fromCurrency="CZK" toCurrency="USD" rate="0.04749" />
+<ConversionRate reportDate="20260324" fromCurrency="SEK" toCurrency="USD" rate="0.10748" />
+<ConversionRate reportDate="20260324" fromCurrency="NZD" toCurrency="USD" rate="0.58363" />
+<ConversionRate reportDate="20260324" fromCurrency="CNH" toCurrency="USD" rate="0.14508" />
+<ConversionRate reportDate="20260324" fromCurrency="BRL" toCurrency="USD" rate="0.1911" />
+<ConversionRate reportDate="20260324" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260325" toDate="20260325" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260325" fromCurrency="CHF" toCurrency="USD" rate="1.2632" />
+<ConversionRate reportDate="20260325" fromCurrency="MXN" toCurrency="USD" rate="0.056272" />
+<ConversionRate reportDate="20260325" fromCurrency="QAR" toCurrency="USD" rate="0.27427" />
+<ConversionRate reportDate="20260325" fromCurrency="SAR" toCurrency="USD" rate="0.26655" />
+<ConversionRate reportDate="20260325" fromCurrency="ZAR" toCurrency="USD" rate="0.058942" />
+<ConversionRate reportDate="20260325" fromCurrency="INR" toCurrency="USD" rate="0.010649" />
+<ConversionRate reportDate="20260325" fromCurrency="THB" toCurrency="USD" rate="0.030592" />
+<ConversionRate reportDate="20260325" fromCurrency="CNY" toCurrency="USD" rate="0.14489" />
+<ConversionRate reportDate="20260325" fromCurrency="AUD" toCurrency="USD" rate="0.69474" />
+<ConversionRate reportDate="20260325" fromCurrency="KRW" toCurrency="USD" rate="0.00066451" />
+<ConversionRate reportDate="20260325" fromCurrency="ILS" toCurrency="USD" rate="0.32067" />
+<ConversionRate reportDate="20260325" fromCurrency="JPY" toCurrency="USD" rate="0.0062707" />
+<ConversionRate reportDate="20260325" fromCurrency="PLN" toCurrency="USD" rate="0.27033" />
+<ConversionRate reportDate="20260325" fromCurrency="GBP" toCurrency="USD" rate="1.3366" />
+<ConversionRate reportDate="20260325" fromCurrency="IDR" toCurrency="USD" rate="0.000059137" />
+<ConversionRate reportDate="20260325" fromCurrency="HUF" toCurrency="USD" rate="0.0029881" />
+<ConversionRate reportDate="20260325" fromCurrency="KWD" toCurrency="USD" rate="3.2626" />
+<ConversionRate reportDate="20260325" fromCurrency="PHP" toCurrency="USD" rate="0.016646" />
+<ConversionRate reportDate="20260325" fromCurrency="TRY" toCurrency="USD" rate="0.022554" />
+<ConversionRate reportDate="20260325" fromCurrency="RUB" toCurrency="USD" rate="0.012346" />
+<ConversionRate reportDate="20260325" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260325" fromCurrency="TWD" toCurrency="USD" rate="0.0313" />
+<ConversionRate reportDate="20260325" fromCurrency="HKD" toCurrency="USD" rate="0.1279" />
+<ConversionRate reportDate="20260325" fromCurrency="EUR" toCurrency="USD" rate="1.1559" />
+<ConversionRate reportDate="20260325" fromCurrency="DKK" toCurrency="USD" rate="0.1547" />
+<ConversionRate reportDate="20260325" fromCurrency="CAD" toCurrency="USD" rate="0.72405" />
+<ConversionRate reportDate="20260325" fromCurrency="MYR" toCurrency="USD" rate="0.25221" />
+<ConversionRate reportDate="20260325" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260325" fromCurrency="NOK" toCurrency="USD" rate="0.10316" />
+<ConversionRate reportDate="20260325" fromCurrency="RON" toCurrency="USD" rate="0.22689" />
+<ConversionRate reportDate="20260325" fromCurrency="RUS" toCurrency="USD" rate="0.012346" />
+<ConversionRate reportDate="20260325" fromCurrency="SGD" toCurrency="USD" rate="0.78037" />
+<ConversionRate reportDate="20260325" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260325" fromCurrency="CZK" toCurrency="USD" rate="0.047224" />
+<ConversionRate reportDate="20260325" fromCurrency="SEK" toCurrency="USD" rate="0.10692" />
+<ConversionRate reportDate="20260325" fromCurrency="NZD" toCurrency="USD" rate="0.58062" />
+<ConversionRate reportDate="20260325" fromCurrency="CNH" toCurrency="USD" rate="0.14484" />
+<ConversionRate reportDate="20260325" fromCurrency="BRL" toCurrency="USD" rate="0.19131" />
+<ConversionRate reportDate="20260325" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260326" toDate="20260326" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260326" fromCurrency="CHF" toCurrency="USD" rate="1.2575" />
+<ConversionRate reportDate="20260326" fromCurrency="MXN" toCurrency="USD" rate="0.055719" />
+<ConversionRate reportDate="20260326" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260326" fromCurrency="SAR" toCurrency="USD" rate="0.26655" />
+<ConversionRate reportDate="20260326" fromCurrency="ZAR" toCurrency="USD" rate="0.058431" />
+<ConversionRate reportDate="20260326" fromCurrency="INR" toCurrency="USD" rate="0.010605" />
+<ConversionRate reportDate="20260326" fromCurrency="THB" toCurrency="USD" rate="0.030335" />
+<ConversionRate reportDate="20260326" fromCurrency="CNY" toCurrency="USD" rate="0.14469" />
+<ConversionRate reportDate="20260326" fromCurrency="AUD" toCurrency="USD" rate="0.68866" />
+<ConversionRate reportDate="20260326" fromCurrency="KRW" toCurrency="USD" rate="0.00066328" />
+<ConversionRate reportDate="20260326" fromCurrency="ILS" toCurrency="USD" rate="0.31911" />
+<ConversionRate reportDate="20260326" fromCurrency="JPY" toCurrency="USD" rate="0.0062579" />
+<ConversionRate reportDate="20260326" fromCurrency="PLN" toCurrency="USD" rate="0.26956" />
+<ConversionRate reportDate="20260326" fromCurrency="GBP" toCurrency="USD" rate="1.333" />
+<ConversionRate reportDate="20260326" fromCurrency="IDR" toCurrency="USD" rate="0.000059172" />
+<ConversionRate reportDate="20260326" fromCurrency="HUF" toCurrency="USD" rate="0.0029709" />
+<ConversionRate reportDate="20260326" fromCurrency="KWD" toCurrency="USD" rate="3.261" />
+<ConversionRate reportDate="20260326" fromCurrency="PHP" toCurrency="USD" rate="0.016605" />
+<ConversionRate reportDate="20260326" fromCurrency="TRY" toCurrency="USD" rate="0.022554" />
+<ConversionRate reportDate="20260326" fromCurrency="RUB" toCurrency="USD" rate="0.012289" />
+<ConversionRate reportDate="20260326" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260326" fromCurrency="TWD" toCurrency="USD" rate="0.031268" />
+<ConversionRate reportDate="20260326" fromCurrency="HKD" toCurrency="USD" rate="0.12778" />
+<ConversionRate reportDate="20260326" fromCurrency="EUR" toCurrency="USD" rate="1.1528" />
+<ConversionRate reportDate="20260326" fromCurrency="DKK" toCurrency="USD" rate="0.15428" />
+<ConversionRate reportDate="20260326" fromCurrency="CAD" toCurrency="USD" rate="0.72143" />
+<ConversionRate reportDate="20260326" fromCurrency="MYR" toCurrency="USD" rate="0.25038" />
+<ConversionRate reportDate="20260326" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260326" fromCurrency="NOK" toCurrency="USD" rate="0.10314" />
+<ConversionRate reportDate="20260326" fromCurrency="RON" toCurrency="USD" rate="0.22618" />
+<ConversionRate reportDate="20260326" fromCurrency="RUS" toCurrency="USD" rate="0.012289" />
+<ConversionRate reportDate="20260326" fromCurrency="SGD" toCurrency="USD" rate="0.77791" />
+<ConversionRate reportDate="20260326" fromCurrency="OMR" toCurrency="USD" rate="2.5977" />
+<ConversionRate reportDate="20260326" fromCurrency="CZK" toCurrency="USD" rate="0.047042" />
+<ConversionRate reportDate="20260326" fromCurrency="SEK" toCurrency="USD" rate="0.10594" />
+<ConversionRate reportDate="20260326" fromCurrency="NZD" toCurrency="USD" rate="0.57614" />
+<ConversionRate reportDate="20260326" fromCurrency="CNH" toCurrency="USD" rate="0.14451" />
+<ConversionRate reportDate="20260326" fromCurrency="BRL" toCurrency="USD" rate="0.19084" />
+<ConversionRate reportDate="20260326" fromCurrency="BHD" toCurrency="USD" rate="2.6446" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260327" toDate="20260327" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260327" fromCurrency="CHF" toCurrency="USD" rate="1.2515" />
+<ConversionRate reportDate="20260327" fromCurrency="MXN" toCurrency="USD" rate="0.055185" />
+<ConversionRate reportDate="20260327" fromCurrency="QAR" toCurrency="USD" rate="0.27372" />
+<ConversionRate reportDate="20260327" fromCurrency="SAR" toCurrency="USD" rate="0.2665" />
+<ConversionRate reportDate="20260327" fromCurrency="ZAR" toCurrency="USD" rate="0.058467" />
+<ConversionRate reportDate="20260327" fromCurrency="INR" toCurrency="USD" rate="0.010551" />
+<ConversionRate reportDate="20260327" fromCurrency="THB" toCurrency="USD" rate="0.030391" />
+<ConversionRate reportDate="20260327" fromCurrency="CNY" toCurrency="USD" rate="0.14468" />
+<ConversionRate reportDate="20260327" fromCurrency="AUD" toCurrency="USD" rate="0.68735" />
+<ConversionRate reportDate="20260327" fromCurrency="KRW" toCurrency="USD" rate="0.00066295" />
+<ConversionRate reportDate="20260327" fromCurrency="ILS" toCurrency="USD" rate="0.31772" />
+<ConversionRate reportDate="20260327" fromCurrency="JPY" toCurrency="USD" rate="0.0062373" />
+<ConversionRate reportDate="20260327" fromCurrency="PLN" toCurrency="USD" rate="0.26865" />
+<ConversionRate reportDate="20260327" fromCurrency="GBP" toCurrency="USD" rate="1.326" />
+<ConversionRate reportDate="20260327" fromCurrency="IDR" toCurrency="USD" rate="0.000058945" />
+<ConversionRate reportDate="20260327" fromCurrency="HUF" toCurrency="USD" rate="0.0029548" />
+<ConversionRate reportDate="20260327" fromCurrency="KWD" toCurrency="USD" rate="3.261" />
+<ConversionRate reportDate="20260327" fromCurrency="PHP" toCurrency="USD" rate="0.016521" />
+<ConversionRate reportDate="20260327" fromCurrency="TRY" toCurrency="USD" rate="0.022504" />
+<ConversionRate reportDate="20260327" fromCurrency="RUB" toCurrency="USD" rate="0.01227" />
+<ConversionRate reportDate="20260327" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260327" fromCurrency="TWD" toCurrency="USD" rate="0.031214" />
+<ConversionRate reportDate="20260327" fromCurrency="HKD" toCurrency="USD" rate="0.12766" />
+<ConversionRate reportDate="20260327" fromCurrency="EUR" toCurrency="USD" rate="1.151" />
+<ConversionRate reportDate="20260327" fromCurrency="DKK" toCurrency="USD" rate="0.15403" />
+<ConversionRate reportDate="20260327" fromCurrency="CAD" toCurrency="USD" rate="0.71973" />
+<ConversionRate reportDate="20260327" fromCurrency="MYR" toCurrency="USD" rate="0.24919" />
+<ConversionRate reportDate="20260327" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260327" fromCurrency="NOK" toCurrency="USD" rate="0.1026" />
+<ConversionRate reportDate="20260327" fromCurrency="RON" toCurrency="USD" rate="0.22577" />
+<ConversionRate reportDate="20260327" fromCurrency="RUS" toCurrency="USD" rate="0.01227" />
+<ConversionRate reportDate="20260327" fromCurrency="SGD" toCurrency="USD" rate="0.7758" />
+<ConversionRate reportDate="20260327" fromCurrency="OMR" toCurrency="USD" rate="2.5975" />
+<ConversionRate reportDate="20260327" fromCurrency="CZK" toCurrency="USD" rate="0.046917" />
+<ConversionRate reportDate="20260327" fromCurrency="SEK" toCurrency="USD" rate="0.1056" />
+<ConversionRate reportDate="20260327" fromCurrency="NZD" toCurrency="USD" rate="0.57456" />
+<ConversionRate reportDate="20260327" fromCurrency="CNH" toCurrency="USD" rate="0.14452" />
+<ConversionRate reportDate="20260327" fromCurrency="BRL" toCurrency="USD" rate="0.19087" />
+<ConversionRate reportDate="20260327" fromCurrency="BHD" toCurrency="USD" rate="2.6411" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260330" toDate="20260330" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+<CashTransaction currency="PLN" fxRateToBase="0.26707" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20260330" amount="3700" type="Deposits/Withdrawals" />
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260330" fromCurrency="CHF" toCurrency="USD" rate="1.2508" />
+<ConversionRate reportDate="20260330" fromCurrency="MXN" toCurrency="USD" rate="0.055175" />
+<ConversionRate reportDate="20260330" fromCurrency="QAR" toCurrency="USD" rate="0.27415" />
+<ConversionRate reportDate="20260330" fromCurrency="SAR" toCurrency="USD" rate="0.26647" />
+<ConversionRate reportDate="20260330" fromCurrency="ZAR" toCurrency="USD" rate="0.058187" />
+<ConversionRate reportDate="20260330" fromCurrency="INR" toCurrency="USD" rate="0.010596" />
+<ConversionRate reportDate="20260330" fromCurrency="THB" toCurrency="USD" rate="0.030481" />
+<ConversionRate reportDate="20260330" fromCurrency="CNY" toCurrency="USD" rate="0.14467" />
+<ConversionRate reportDate="20260330" fromCurrency="AUD" toCurrency="USD" rate="0.68527" />
+<ConversionRate reportDate="20260330" fromCurrency="KRW" toCurrency="USD" rate="0.00065891" />
+<ConversionRate reportDate="20260330" fromCurrency="ILS" toCurrency="USD" rate="0.31526" />
+<ConversionRate reportDate="20260330" fromCurrency="JPY" toCurrency="USD" rate="0.0062602" />
+<ConversionRate reportDate="20260330" fromCurrency="PLN" toCurrency="USD" rate="0.26707" />
+<ConversionRate reportDate="20260330" fromCurrency="GBP" toCurrency="USD" rate="1.3184" />
+<ConversionRate reportDate="20260330" fromCurrency="IDR" toCurrency="USD" rate="0.000058858" />
+<ConversionRate reportDate="20260330" fromCurrency="HUF" toCurrency="USD" rate="0.0029541" />
+<ConversionRate reportDate="20260330" fromCurrency="KWD" toCurrency="USD" rate="3.2579" />
+<ConversionRate reportDate="20260330" fromCurrency="PHP" toCurrency="USD" rate="0.016463" />
+<ConversionRate reportDate="20260330" fromCurrency="TRY" toCurrency="USD" rate="0.022502" />
+<ConversionRate reportDate="20260330" fromCurrency="RUB" toCurrency="USD" rate="0.0123" />
+<ConversionRate reportDate="20260330" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260330" fromCurrency="TWD" toCurrency="USD" rate="0.031198" />
+<ConversionRate reportDate="20260330" fromCurrency="HKD" toCurrency="USD" rate="0.12762" />
+<ConversionRate reportDate="20260330" fromCurrency="EUR" toCurrency="USD" rate="1.1462" />
+<ConversionRate reportDate="20260330" fromCurrency="DKK" toCurrency="USD" rate="0.15339" />
+<ConversionRate reportDate="20260330" fromCurrency="CAD" toCurrency="USD" rate="0.71816" />
+<ConversionRate reportDate="20260330" fromCurrency="MYR" toCurrency="USD" rate="0.24826" />
+<ConversionRate reportDate="20260330" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260330" fromCurrency="NOK" toCurrency="USD" rate="0.10259" />
+<ConversionRate reportDate="20260330" fromCurrency="RON" toCurrency="USD" rate="0.22481" />
+<ConversionRate reportDate="20260330" fromCurrency="RUS" toCurrency="USD" rate="0.0123" />
+<ConversionRate reportDate="20260330" fromCurrency="SGD" toCurrency="USD" rate="0.77441" />
+<ConversionRate reportDate="20260330" fromCurrency="OMR" toCurrency="USD" rate="2.5977" />
+<ConversionRate reportDate="20260330" fromCurrency="CZK" toCurrency="USD" rate="0.046691" />
+<ConversionRate reportDate="20260330" fromCurrency="SEK" toCurrency="USD" rate="0.1047" />
+<ConversionRate reportDate="20260330" fromCurrency="NZD" toCurrency="USD" rate="0.57216" />
+<ConversionRate reportDate="20260330" fromCurrency="CNH" toCurrency="USD" rate="0.14458" />
+<ConversionRate reportDate="20260330" fromCurrency="BRL" toCurrency="USD" rate="0.19036" />
+<ConversionRate reportDate="20260330" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260331" toDate="20260331" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+<CashTransaction currency="PLN" fxRateToBase="0.26937" description="CASH RECEIPTS / ELECTRONIC FUND TRANSFERS" dateTime="20260331" amount="200" type="Deposits/Withdrawals" />
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260331" fromCurrency="CHF" toCurrency="USD" rate="1.251" />
+<ConversionRate reportDate="20260331" fromCurrency="MXN" toCurrency="USD" rate="0.055758" />
+<ConversionRate reportDate="20260331" fromCurrency="QAR" toCurrency="USD" rate="0.27447" />
+<ConversionRate reportDate="20260331" fromCurrency="SAR" toCurrency="USD" rate="0.26647" />
+<ConversionRate reportDate="20260331" fromCurrency="ZAR" toCurrency="USD" rate="0.059022" />
+<ConversionRate reportDate="20260331" fromCurrency="INR" toCurrency="USD" rate="0.010697" />
+<ConversionRate reportDate="20260331" fromCurrency="THB" toCurrency="USD" rate="0.030689" />
+<ConversionRate reportDate="20260331" fromCurrency="CNY" toCurrency="USD" rate="0.14495" />
+<ConversionRate reportDate="20260331" fromCurrency="AUD" toCurrency="USD" rate="0.69005" />
+<ConversionRate reportDate="20260331" fromCurrency="KRW" toCurrency="USD" rate="0.00066367" />
+<ConversionRate reportDate="20260331" fromCurrency="ILS" toCurrency="USD" rate="0.31822" />
+<ConversionRate reportDate="20260331" fromCurrency="JPY" toCurrency="USD" rate="0.0063004" />
+<ConversionRate reportDate="20260331" fromCurrency="PLN" toCurrency="USD" rate="0.26937" />
+<ConversionRate reportDate="20260331" fromCurrency="GBP" toCurrency="USD" rate="1.3226" />
+<ConversionRate reportDate="20260331" fromCurrency="IDR" toCurrency="USD" rate="0.000058843" />
+<ConversionRate reportDate="20260331" fromCurrency="HUF" toCurrency="USD" rate="0.0030083" />
+<ConversionRate reportDate="20260331" fromCurrency="KWD" toCurrency="USD" rate="3.2579" />
+<ConversionRate reportDate="20260331" fromCurrency="PHP" toCurrency="USD" rate="0.016495" />
+<ConversionRate reportDate="20260331" fromCurrency="TRY" toCurrency="USD" rate="0.022497" />
+<ConversionRate reportDate="20260331" fromCurrency="RUB" toCurrency="USD" rate="0.0123" />
+<ConversionRate reportDate="20260331" fromCurrency="AED" toCurrency="USD" rate="0.27223" />
+<ConversionRate reportDate="20260331" fromCurrency="TWD" toCurrency="USD" rate="0.031296" />
+<ConversionRate reportDate="20260331" fromCurrency="HKD" toCurrency="USD" rate="0.12755" />
+<ConversionRate reportDate="20260331" fromCurrency="EUR" toCurrency="USD" rate="1.1553" />
+<ConversionRate reportDate="20260331" fromCurrency="DKK" toCurrency="USD" rate="0.15464" />
+<ConversionRate reportDate="20260331" fromCurrency="CAD" toCurrency="USD" rate="0.71867" />
+<ConversionRate reportDate="20260331" fromCurrency="MYR" toCurrency="USD" rate="0.24697" />
+<ConversionRate reportDate="20260331" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260331" fromCurrency="NOK" toCurrency="USD" rate="0.10326" />
+<ConversionRate reportDate="20260331" fromCurrency="RON" toCurrency="USD" rate="0.2266" />
+<ConversionRate reportDate="20260331" fromCurrency="RUS" toCurrency="USD" rate="0.0123" />
+<ConversionRate reportDate="20260331" fromCurrency="SGD" toCurrency="USD" rate="0.7776" />
+<ConversionRate reportDate="20260331" fromCurrency="OMR" toCurrency="USD" rate="2.5977" />
+<ConversionRate reportDate="20260331" fromCurrency="CZK" toCurrency="USD" rate="0.047071" />
+<ConversionRate reportDate="20260331" fromCurrency="SEK" toCurrency="USD" rate="0.1056" />
+<ConversionRate reportDate="20260331" fromCurrency="NZD" toCurrency="USD" rate="0.57468" />
+<ConversionRate reportDate="20260331" fromCurrency="CNH" toCurrency="USD" rate="0.14517" />
+<ConversionRate reportDate="20260331" fromCurrency="BRL" toCurrency="USD" rate="0.19303" />
+<ConversionRate reportDate="20260331" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260401" toDate="20260401" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260401" fromCurrency="CHF" toCurrency="USD" rate="1.259" />
+<ConversionRate reportDate="20260401" fromCurrency="MXN" toCurrency="USD" rate="0.056119" />
+<ConversionRate reportDate="20260401" fromCurrency="QAR" toCurrency="USD" rate="0.27439" />
+<ConversionRate reportDate="20260401" fromCurrency="SAR" toCurrency="USD" rate="0.26644" />
+<ConversionRate reportDate="20260401" fromCurrency="ZAR" toCurrency="USD" rate="0.059475" />
+<ConversionRate reportDate="20260401" fromCurrency="INR" toCurrency="USD" rate="0.010727" />
+<ConversionRate reportDate="20260401" fromCurrency="THB" toCurrency="USD" rate="0.030633" />
+<ConversionRate reportDate="20260401" fromCurrency="CNY" toCurrency="USD" rate="0.1455" />
+<ConversionRate reportDate="20260401" fromCurrency="AUD" toCurrency="USD" rate="0.69287" />
+<ConversionRate reportDate="20260401" fromCurrency="KRW" toCurrency="USD" rate="0.00066092" />
+<ConversionRate reportDate="20260401" fromCurrency="ILS" toCurrency="USD" rate="0.31992" />
+<ConversionRate reportDate="20260401" fromCurrency="JPY" toCurrency="USD" rate="0.0062972" />
+<ConversionRate reportDate="20260401" fromCurrency="PLN" toCurrency="USD" rate="0.27053" />
+<ConversionRate reportDate="20260401" fromCurrency="GBP" toCurrency="USD" rate="1.3307" />
+<ConversionRate reportDate="20260401" fromCurrency="IDR" toCurrency="USD" rate="0.000058893" />
+<ConversionRate reportDate="20260401" fromCurrency="HUF" toCurrency="USD" rate="0.0030221" />
+<ConversionRate reportDate="20260401" fromCurrency="KWD" toCurrency="USD" rate="3.26" />
+<ConversionRate reportDate="20260401" fromCurrency="PHP" toCurrency="USD" rate="0.016604" />
+<ConversionRate reportDate="20260401" fromCurrency="TRY" toCurrency="USD" rate="0.022484" />
+<ConversionRate reportDate="20260401" fromCurrency="RUB" toCurrency="USD" rate="0.012453" />
+<ConversionRate reportDate="20260401" fromCurrency="AED" toCurrency="USD" rate="0.27225" />
+<ConversionRate reportDate="20260401" fromCurrency="TWD" toCurrency="USD" rate="0.031228" />
+<ConversionRate reportDate="20260401" fromCurrency="HKD" toCurrency="USD" rate="0.12759" />
+<ConversionRate reportDate="20260401" fromCurrency="EUR" toCurrency="USD" rate="1.159" />
+<ConversionRate reportDate="20260401" fromCurrency="DKK" toCurrency="USD" rate="0.15511" />
+<ConversionRate reportDate="20260401" fromCurrency="CAD" toCurrency="USD" rate="0.72073" />
+<ConversionRate reportDate="20260401" fromCurrency="MYR" toCurrency="USD" rate="0.24832" />
+<ConversionRate reportDate="20260401" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260401" fromCurrency="NOK" toCurrency="USD" rate="0.10291" />
+<ConversionRate reportDate="20260401" fromCurrency="RON" toCurrency="USD" rate="0.22738" />
+<ConversionRate reportDate="20260401" fromCurrency="RUS" toCurrency="USD" rate="0.012453" />
+<ConversionRate reportDate="20260401" fromCurrency="SGD" toCurrency="USD" rate="0.77925" />
+<ConversionRate reportDate="20260401" fromCurrency="OMR" toCurrency="USD" rate="2.5977" />
+<ConversionRate reportDate="20260401" fromCurrency="CZK" toCurrency="USD" rate="0.047265" />
+<ConversionRate reportDate="20260401" fromCurrency="SEK" toCurrency="USD" rate="0.1063" />
+<ConversionRate reportDate="20260401" fromCurrency="NZD" toCurrency="USD" rate="0.5753" />
+<ConversionRate reportDate="20260401" fromCurrency="CNH" toCurrency="USD" rate="0.1454" />
+<ConversionRate reportDate="20260401" fromCurrency="BRL" toCurrency="USD" rate="0.19399" />
+<ConversionRate reportDate="20260401" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260402" toDate="20260402" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260402" fromCurrency="CHF" toCurrency="USD" rate="1.2518" />
+<ConversionRate reportDate="20260402" fromCurrency="MXN" toCurrency="USD" rate="0.055977" />
+<ConversionRate reportDate="20260402" fromCurrency="QAR" toCurrency="USD" rate="0.27427" />
+<ConversionRate reportDate="20260402" fromCurrency="SAR" toCurrency="USD" rate="0.2664" />
+<ConversionRate reportDate="20260402" fromCurrency="ZAR" toCurrency="USD" rate="0.059004" />
+<ConversionRate reportDate="20260402" fromCurrency="INR" toCurrency="USD" rate="0.010755" />
+<ConversionRate reportDate="20260402" fromCurrency="THB" toCurrency="USD" rate="0.030642" />
+<ConversionRate reportDate="20260402" fromCurrency="CNY" toCurrency="USD" rate="0.14521" />
+<ConversionRate reportDate="20260402" fromCurrency="AUD" toCurrency="USD" rate="0.69105" />
+<ConversionRate reportDate="20260402" fromCurrency="KRW" toCurrency="USD" rate="0.00066214" />
+<ConversionRate reportDate="20260402" fromCurrency="ILS" toCurrency="USD" rate="0.31947" />
+<ConversionRate reportDate="20260402" fromCurrency="JPY" toCurrency="USD" rate="0.0062654" />
+<ConversionRate reportDate="20260402" fromCurrency="PLN" toCurrency="USD" rate="0.26984" />
+<ConversionRate reportDate="20260402" fromCurrency="GBP" toCurrency="USD" rate="1.3227" />
+<ConversionRate reportDate="20260402" fromCurrency="IDR" toCurrency="USD" rate="0.000058843" />
+<ConversionRate reportDate="20260402" fromCurrency="HUF" toCurrency="USD" rate="0.0030023" />
+<ConversionRate reportDate="20260402" fromCurrency="KWD" toCurrency="USD" rate="3.2589" />
+<ConversionRate reportDate="20260402" fromCurrency="PHP" toCurrency="USD" rate="0.016572" />
+<ConversionRate reportDate="20260402" fromCurrency="TRY" toCurrency="USD" rate="0.022492" />
+<ConversionRate reportDate="20260402" fromCurrency="RUB" toCurrency="USD" rate="0.012469" />
+<ConversionRate reportDate="20260402" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260402" fromCurrency="TWD" toCurrency="USD" rate="0.031298" />
+<ConversionRate reportDate="20260402" fromCurrency="HKD" toCurrency="USD" rate="0.12758" />
+<ConversionRate reportDate="20260402" fromCurrency="EUR" toCurrency="USD" rate="1.1539" />
+<ConversionRate reportDate="20260402" fromCurrency="DKK" toCurrency="USD" rate="0.15442" />
+<ConversionRate reportDate="20260402" fromCurrency="CAD" toCurrency="USD" rate="0.71836" />
+<ConversionRate reportDate="20260402" fromCurrency="MYR" toCurrency="USD" rate="0.24759" />
+<ConversionRate reportDate="20260402" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260402" fromCurrency="NOK" toCurrency="USD" rate="0.10275" />
+<ConversionRate reportDate="20260402" fromCurrency="RON" toCurrency="USD" rate="0.22637" />
+<ConversionRate reportDate="20260402" fromCurrency="RUS" toCurrency="USD" rate="0.012469" />
+<ConversionRate reportDate="20260402" fromCurrency="SGD" toCurrency="USD" rate="0.77781" />
+<ConversionRate reportDate="20260402" fromCurrency="OMR" toCurrency="USD" rate="2.5977" />
+<ConversionRate reportDate="20260402" fromCurrency="CZK" toCurrency="USD" rate="0.047069" />
+<ConversionRate reportDate="20260402" fromCurrency="SEK" toCurrency="USD" rate="0.10604" />
+<ConversionRate reportDate="20260402" fromCurrency="NZD" toCurrency="USD" rate="0.57171" />
+<ConversionRate reportDate="20260402" fromCurrency="CNH" toCurrency="USD" rate="0.14514" />
+<ConversionRate reportDate="20260402" fromCurrency="BRL" toCurrency="USD" rate="0.19388" />
+<ConversionRate reportDate="20260402" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260403" toDate="20260403" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260403" fromCurrency="CHF" toCurrency="USD" rate="1.2489" />
+<ConversionRate reportDate="20260403" fromCurrency="MXN" toCurrency="USD" rate="0.055931" />
+<ConversionRate reportDate="20260403" fromCurrency="QAR" toCurrency="USD" rate="0.27427" />
+<ConversionRate reportDate="20260403" fromCurrency="SAR" toCurrency="USD" rate="0.26633" />
+<ConversionRate reportDate="20260403" fromCurrency="ZAR" toCurrency="USD" rate="0.05882" />
+<ConversionRate reportDate="20260403" fromCurrency="INR" toCurrency="USD" rate="0.010786" />
+<ConversionRate reportDate="20260403" fromCurrency="THB" toCurrency="USD" rate="0.0306" />
+<ConversionRate reportDate="20260403" fromCurrency="CNY" toCurrency="USD" rate="0.14529" />
+<ConversionRate reportDate="20260403" fromCurrency="AUD" toCurrency="USD" rate="0.68912" />
+<ConversionRate reportDate="20260403" fromCurrency="KRW" toCurrency="USD" rate="0.00066188" />
+<ConversionRate reportDate="20260403" fromCurrency="ILS" toCurrency="USD" rate="0.31934" />
+<ConversionRate reportDate="20260403" fromCurrency="JPY" toCurrency="USD" rate="0.0062663" />
+<ConversionRate reportDate="20260403" fromCurrency="PLN" toCurrency="USD" rate="0.26928" />
+<ConversionRate reportDate="20260403" fromCurrency="GBP" toCurrency="USD" rate="1.3193" />
+<ConversionRate reportDate="20260403" fromCurrency="IDR" toCurrency="USD" rate="0.000058843" />
+<ConversionRate reportDate="20260403" fromCurrency="HUF" toCurrency="USD" rate="0.0029928" />
+<ConversionRate reportDate="20260403" fromCurrency="KWD" toCurrency="USD" rate="3.2589" />
+<ConversionRate reportDate="20260403" fromCurrency="PHP" toCurrency="USD" rate="0.016604" />
+<ConversionRate reportDate="20260403" fromCurrency="TRY" toCurrency="USD" rate="0.022428" />
+<ConversionRate reportDate="20260403" fromCurrency="RUB" toCurrency="USD" rate="0.012498" />
+<ConversionRate reportDate="20260403" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260403" fromCurrency="TWD" toCurrency="USD" rate="0.031255" />
+<ConversionRate reportDate="20260403" fromCurrency="HKD" toCurrency="USD" rate="0.1276" />
+<ConversionRate reportDate="20260403" fromCurrency="EUR" toCurrency="USD" rate="1.1517" />
+<ConversionRate reportDate="20260403" fromCurrency="DKK" toCurrency="USD" rate="0.15414" />
+<ConversionRate reportDate="20260403" fromCurrency="CAD" toCurrency="USD" rate="0.71703" />
+<ConversionRate reportDate="20260403" fromCurrency="MYR" toCurrency="USD" rate="0.24808" />
+<ConversionRate reportDate="20260403" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260403" fromCurrency="NOK" toCurrency="USD" rate="0.10234" />
+<ConversionRate reportDate="20260403" fromCurrency="RON" toCurrency="USD" rate="0.22594" />
+<ConversionRate reportDate="20260403" fromCurrency="RUS" toCurrency="USD" rate="0.012498" />
+<ConversionRate reportDate="20260403" fromCurrency="SGD" toCurrency="USD" rate="0.777" />
+<ConversionRate reportDate="20260403" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260403" fromCurrency="CZK" toCurrency="USD" rate="0.046975" />
+<ConversionRate reportDate="20260403" fromCurrency="SEK" toCurrency="USD" rate="0.10543" />
+<ConversionRate reportDate="20260403" fromCurrency="NZD" toCurrency="USD" rate="0.56925" />
+<ConversionRate reportDate="20260403" fromCurrency="CNH" toCurrency="USD" rate="0.14521" />
+<ConversionRate reportDate="20260403" fromCurrency="BRL" toCurrency="USD" rate="0.1939" />
+<ConversionRate reportDate="20260403" fromCurrency="BHD" toCurrency="USD" rate="2.6497" />
+</ConversionRates>
+</FlexStatement>
+<FlexStatement accountId="U20961619" fromDate="20260406" toDate="20260406" period="Last30CalendarDays" whenGenerated="20260407;232330">
+<Trades>
+</Trades><CashTransactions>
+</CashTransactions><ConversionRates>
+<ConversionRate reportDate="20260406" fromCurrency="CHF" toCurrency="USD" rate="1.253" />
+<ConversionRate reportDate="20260406" fromCurrency="MXN" toCurrency="USD" rate="0.056298" />
+<ConversionRate reportDate="20260406" fromCurrency="QAR" toCurrency="USD" rate="0.2742" />
+<ConversionRate reportDate="20260406" fromCurrency="SAR" toCurrency="USD" rate="0.26633" />
+<ConversionRate reportDate="20260406" fromCurrency="ZAR" toCurrency="USD" rate="0.059305" />
+<ConversionRate reportDate="20260406" fromCurrency="INR" toCurrency="USD" rate="0.010745" />
+<ConversionRate reportDate="20260406" fromCurrency="THB" toCurrency="USD" rate="0.030698" />
+<ConversionRate reportDate="20260406" fromCurrency="CNY" toCurrency="USD" rate="0.14529" />
+<ConversionRate reportDate="20260406" fromCurrency="AUD" toCurrency="USD" rate="0.69185" />
+<ConversionRate reportDate="20260406" fromCurrency="KRW" toCurrency="USD" rate="0.00066273" />
+<ConversionRate reportDate="20260406" fromCurrency="ILS" toCurrency="USD" rate="0.31809" />
+<ConversionRate reportDate="20260406" fromCurrency="JPY" toCurrency="USD" rate="0.0062623" />
+<ConversionRate reportDate="20260406" fromCurrency="PLN" toCurrency="USD" rate="0.27037" />
+<ConversionRate reportDate="20260406" fromCurrency="GBP" toCurrency="USD" rate="1.3236" />
+<ConversionRate reportDate="20260406" fromCurrency="IDR" toCurrency="USD" rate="0.000058703" />
+<ConversionRate reportDate="20260406" fromCurrency="HUF" toCurrency="USD" rate="0.0030259" />
+<ConversionRate reportDate="20260406" fromCurrency="KWD" toCurrency="USD" rate="3.2579" />
+<ConversionRate reportDate="20260406" fromCurrency="PHP" toCurrency="USD" rate="0.016649" />
+<ConversionRate reportDate="20260406" fromCurrency="TRY" toCurrency="USD" rate="0.022436" />
+<ConversionRate reportDate="20260406" fromCurrency="RUB" toCurrency="USD" rate="0.012657" />
+<ConversionRate reportDate="20260406" fromCurrency="AED" toCurrency="USD" rate="0.27224" />
+<ConversionRate reportDate="20260406" fromCurrency="TWD" toCurrency="USD" rate="0.031294" />
+<ConversionRate reportDate="20260406" fromCurrency="HKD" toCurrency="USD" rate="0.12759" />
+<ConversionRate reportDate="20260406" fromCurrency="EUR" toCurrency="USD" rate="1.1542" />
+<ConversionRate reportDate="20260406" fromCurrency="DKK" toCurrency="USD" rate="0.15446" />
+<ConversionRate reportDate="20260406" fromCurrency="CAD" toCurrency="USD" rate="0.71887" />
+<ConversionRate reportDate="20260406" fromCurrency="MYR" toCurrency="USD" rate="0.24829" />
+<ConversionRate reportDate="20260406" fromCurrency="BGN" toCurrency="USD" rate="0.6006" />
+<ConversionRate reportDate="20260406" fromCurrency="NOK" toCurrency="USD" rate="0.103" />
+<ConversionRate reportDate="20260406" fromCurrency="RON" toCurrency="USD" rate="0.22641" />
+<ConversionRate reportDate="20260406" fromCurrency="RUS" toCurrency="USD" rate="0.012657" />
+<ConversionRate reportDate="20260406" fromCurrency="SGD" toCurrency="USD" rate="0.77833" />
+<ConversionRate reportDate="20260406" fromCurrency="OMR" toCurrency="USD" rate="2.5974" />
+<ConversionRate reportDate="20260406" fromCurrency="CZK" toCurrency="USD" rate="0.047073" />
+<ConversionRate reportDate="20260406" fromCurrency="SEK" toCurrency="USD" rate="0.1058" />
+<ConversionRate reportDate="20260406" fromCurrency="NZD" toCurrency="USD" rate="0.57122" />
+<ConversionRate reportDate="20260406" fromCurrency="CNH" toCurrency="USD" rate="0.14545" />
+<ConversionRate reportDate="20260406" fromCurrency="BRL" toCurrency="USD" rate="0.19444" />
+<ConversionRate reportDate="20260406" fromCurrency="BHD" toCurrency="USD" rate="2.6487" />
+</ConversionRates>
+</FlexStatement>
+</FlexStatements>
+</FlexQueryResponse>

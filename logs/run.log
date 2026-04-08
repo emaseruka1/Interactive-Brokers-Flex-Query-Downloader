@@ -1,0 +1,86 @@
+=============================== 
+START File Downloader 06/01/2026 23:30:00.29 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-01-06T23:30:02.083+01:00  INFO 17476 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Starting IbkrXmlFileDownloaderApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 17476 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader\target\ibkr_xmlFileDownloader-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader)
+2026-01-06T23:30:02.094+01:00  INFO 17476 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-01-06T23:30:04.394+01:00  INFO 17476 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Started IbkrXmlFileDownloaderApplication in 3.071 seconds (process running for 4.005)
+SUCCESS: Downloader completed successfully 
+END Downloader SUCCESS 06/01/2026 23:30:04.43 
+=============================== 
+START File Downloader 08/01/2026 11:45:48.21 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-01-08T11:45:50.270+01:00  INFO 7028 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Starting IbkrXmlFileDownloaderApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 7028 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader\target\ibkr_xmlFileDownloader-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader)
+2026-01-08T11:45:50.274+01:00  INFO 7028 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-01-08T11:45:53.235+01:00  INFO 7028 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Started IbkrXmlFileDownloaderApplication in 3.936 seconds (process running for 4.896)
+SUCCESS: Downloader completed successfully 
+END Downloader SUCCESS 08/01/2026 11:45:53.29 
+=============================== 
+START File Downloader 08/01/2026 12:50:35.89 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-01-08T12:50:37.549+01:00  INFO 24036 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Starting IbkrXmlFileDownloaderApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 24036 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader\target\ibkr_xmlFileDownloader-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader)
+2026-01-08T12:50:37.555+01:00  INFO 24036 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-01-08T12:50:40.282+01:00  INFO 24036 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Started IbkrXmlFileDownloaderApplication in 3.592 seconds (process running for 4.33)
+SUCCESS: Downloader completed successfully 
+END Downloader SUCCESS 08/01/2026 12:50:40.34 
+=============================== 
+START File Downloader 07/02/2026 14:45:46.51 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-02-07T14:45:48.559+01:00  INFO 6800 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Starting IbkrXmlFileDownloaderApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 6800 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader\target\ibkr_xmlFileDownloader-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader)
+2026-02-07T14:45:48.566+01:00  INFO 6800 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : No active profile set, falling back to 1 default profile: "default"
+Retry: 1
+2026-02-07T14:45:52.267+01:00  INFO 6800 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Started IbkrXmlFileDownloaderApplication in 4.523 seconds (process running for 5.628)
+SUCCESS: Downloader completed successfully 
+END Downloader SUCCESS 07/02/2026 14:45:52.31 
+=============================== 
+START File Downloader 10/03/2026 11:49:57.85 
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v4.0.0)
+
+2026-03-10T11:49:59.916+01:00  INFO 7140 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Starting IbkrXmlFileDownloaderApplication v0.0.1-SNAPSHOT using Java 17.0.17 with PID 7140 (E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader\target\ibkr_xmlFileDownloader-0.0.1-SNAPSHOT.jar started by Kevin Meng in E:\WebApp_Projects\Portfolio_Tracker_Project\java\ibkr_xmlFileDownloader)
+2026-03-10T11:49:59.919+01:00  INFO 7140 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : No active profile set, falling back to 1 default profile: "default"
+2026-03-10T11:50:02.873+01:00  INFO 7140 --- [ibkr_xmlFileDownloader] [           main] c.e.p.IbkrXmlFileDownloaderApplication   : Started IbkrXmlFileDownloaderApplication in 3.888 seconds (process running for 4.893)
+SUCCESS: Downloader completed successfully 
+END Downloader SUCCESS 10/03/2026 11:50:02.93 

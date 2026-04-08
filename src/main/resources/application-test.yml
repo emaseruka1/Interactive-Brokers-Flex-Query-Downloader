@@ -1,0 +1,4 @@
+flex:
+  xml:
+    download:
+      directory: src/test/resources/output/
