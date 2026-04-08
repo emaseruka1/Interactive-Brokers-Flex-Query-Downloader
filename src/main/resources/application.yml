@@ -21,3 +21,8 @@ flex:
   xml:
     download:
       directory: E:/WebApp_Projects/Portfolio_Tracker_Project/portfolioTrackerAppData/current
+
+flex:
+  query:
+    bucket: portfolio_tracker_data
+    filename: current/transactions.xml

@@ -1,14 +1,17 @@
 package com.example.portfolio.service;
 
-import jakarta.annotation.PostConstruct;
+import com.google.cloud.storage.BlobId;
+import com.google.cloud.storage.BlobInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
+import com.google.cloud.storage.Storage;
+import com.google.cloud.storage.StorageOptions;
+import java.io.ByteArrayInputStream;
+import java.nio.channels.WritableByteChannel;
+import java.nio.charset.StandardCharsets;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 
 @Service
@@ -20,8 +23,13 @@ public class GetFlexXmlStatement {
     @Value("${ibkr.get.statement.url}")
     private String ibkrGetStatementUrl;
 
-    @Value("${flex.xml.download.directory}")
+    @Value("${flex.query.bucket}")
     private String flexXmlDownloadDirectory;
+
+    @Value("${flex.query.filename}")
+    private String flexXmlFilename;
+
+    private final Storage storage = StorageOptions.getDefaultInstance().getService();
 
     @Autowired
     private SendFlexQueryRequest sendFlexQueryRequest;
@@ -60,24 +68,27 @@ public class GetFlexXmlStatement {
         }
     }
 
-    @PostConstruct
-    @Profile("!test")
     public void downloadFlexXmlStatement(){
 
         String flexXmlStatementResponse = getFlexXmlStatement();
 
-        File downloadDirectory = new File(flexXmlDownloadDirectory);
+        BlobId flexXmlStatementGcsLocation = BlobId.of(flexXmlDownloadDirectory, flexXmlFilename);
 
-        File xmlFile = new File(downloadDirectory, "transactions.xml");
+        BlobInfo flexXmlStatementMetaData = BlobInfo.newBuilder(flexXmlStatementGcsLocation).build();
 
-        try (FileWriter writer = new FileWriter(xmlFile)) {
+        try (WritableByteChannel blobChannelToGoogleCloudStorage = storage.writer(flexXmlStatementMetaData);
+             ByteArrayInputStream googleCloudStorageBlobStream = new ByteArrayInputStream(flexXmlStatementResponse.getBytes(StandardCharsets.UTF_8))) {
 
-            writer.write(flexXmlStatementResponse);
+            byte[] buffer = new byte[1024];
+            int bytesRead;
+            while ((bytesRead = googleCloudStorageBlobStream.read(buffer)) != -1) {
+                blobChannelToGoogleCloudStorage.write(java.nio.ByteBuffer.wrap(buffer, 0, bytesRead));
+            }
 
         } catch (IOException e) {
-
-            throw new RuntimeException(e);
+            throw new RuntimeException("Failed to write XML to GCS", e);
         }
+
 
     }
 }
