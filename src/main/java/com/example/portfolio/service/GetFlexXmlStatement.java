@@ -35,12 +35,15 @@ public class GetFlexXmlStatement {
 
     private final Storage storage = StorageOptions.getDefaultInstance().getService();
 
-    @Autowired
     private SendFlexQueryRequest sendFlexQueryRequest;
 
     private final RestTemplate restTemplate = new RestTemplate();
 
     private static final Logger log = LoggerFactory.getLogger(GetFlexXmlStatement.class);
+
+    public GetFlexXmlStatement(SendFlexQueryRequest sendFlexQueryRequest) {
+        this.sendFlexQueryRequest = sendFlexQueryRequest;
+    }
 
     public String getFlexXmlStatement(){
 
