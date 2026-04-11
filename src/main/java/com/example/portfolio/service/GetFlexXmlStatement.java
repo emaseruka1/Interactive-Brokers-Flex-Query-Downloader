@@ -73,6 +73,8 @@ public class GetFlexXmlStatement {
 
         String flexXmlStatementResponse = getFlexXmlStatement();
 
+        System.out.println("ACTIVE PROFILE = " + System.getProperty("spring.profiles.active"));
+
         BlobId flexXmlStatementGcsLocation = BlobId.of(flexXmlDownloadDirectory, flexXmlFilename);
 
         BlobInfo flexXmlStatementMetaData = BlobInfo.newBuilder(flexXmlStatementGcsLocation).build();
