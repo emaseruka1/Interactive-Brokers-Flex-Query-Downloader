@@ -21,16 +21,16 @@ import java.io.IOException;
     @Service
     public class GetFlexXmlStatement {
 
-        @Value("${ibkr.flex.token}")
+        @Value("${ibkr_flex_token}")
         private String flexToken;
 
         @Value("${ibkr.get.statement.url}")
         private String ibkrGetStatementUrl;
 
-        @Value("${flex.query.bucket}")
+        @Value("${flex_query_bucket}")
         private String flexXmlDownloadDirectory;
 
-        @Value("${flex.query.filename}")
+        @Value("${flex_query_filename}")
         private String flexXmlFilename;
 
         private final Storage storage = StorageOptions.getDefaultInstance().getService();

@@ -1,7 +1,6 @@
 package com.example.portfolio.controller;
 
 import com.example.portfolio.service.GetFlexXmlStatement;
-import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -27,11 +26,6 @@ public class RunJob {
         getFlexXmlStatement.downloadFlexXmlStatement();
 
         return "Job completed";
-    }
-
-    @PostConstruct
-    public void init() {
-        System.out.println("RUNJOB CREATED BY SPRING");
     }
 }
 

@@ -9,10 +9,10 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class SendFlexQueryRequest {
 
-    @Value("${ibkr.flex.token}")
+    @Value("${ibkr_flex_token}")
     private String flexToken;
 
-    @Value("${ibkr.flex.query.id}")
+    @Value("${ibkr_flex_query_id}")
     private String flexQueryId;
 
     @Value("${ibkr.send.request.url}")
