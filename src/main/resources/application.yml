@@ -16,3 +16,8 @@ ibkr:
   get:
     statement:
       url: https://gdcdyn.interactivebrokers.com/AccountManagement/FlexWebService/GetStatement
+
+flex:
+  query:
+    bucket: portfolio_tracker_data
+    filename: current/transactions.xml
