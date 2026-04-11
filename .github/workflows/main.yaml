@@ -16,7 +16,7 @@ jobs:
       - name: Write IBKR credentials
         run: |
           mkdir -p src/main/resources
-          echo "${{ secrets.IBKR_AUTH_KEY }}" > src/main/resources/application.yml
+          echo "${{ secrets.IBKR_AUTH_KEY }}" >> src/main/resources/application.yml
 
       - name: Upload Credentials
         uses: actions/upload-artifact@v4
