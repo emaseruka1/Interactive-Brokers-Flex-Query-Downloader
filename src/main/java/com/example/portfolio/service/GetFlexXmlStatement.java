@@ -42,10 +42,6 @@ public class GetFlexXmlStatement {
 
     private static final Logger log = LoggerFactory.getLogger(GetFlexXmlStatement.class);
 
-    public GetFlexXmlStatement(SendFlexQueryRequest sendFlexQueryRequest) {
-        this.sendFlexQueryRequest = sendFlexQueryRequest;
-    }
-
     public String getFlexXmlStatement(){
 
         String referenceCode = sendFlexQueryRequest.requestFlexQueryReferenceCode();
