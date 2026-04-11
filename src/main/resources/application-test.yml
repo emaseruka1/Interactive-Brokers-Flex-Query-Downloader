@@ -2,3 +2,7 @@ flex:
   xml:
     download:
       directory: src/test/resources/output/
+
+logging:
+  level:
+    root: INFO

@@ -1,4 +1,0 @@
-flex:
-  query:
-    bucket: portfolio_tracker_data
-    filename: current/transactions.xml

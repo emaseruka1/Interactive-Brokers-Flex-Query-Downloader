@@ -1,7 +1,10 @@
 package com.example.portfolio.service;
 
+import com.example.portfolio.controller.RunJob;
 import com.google.cloud.storage.BlobId;
 import com.google.cloud.storage.BlobInfo;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Profile;
@@ -37,6 +40,8 @@ public class GetFlexXmlStatement {
 
     private final RestTemplate restTemplate = new RestTemplate();
 
+    private static final Logger log = LoggerFactory.getLogger(GetFlexXmlStatement.class);
+
     public GetFlexXmlStatement(SendFlexQueryRequest sendFlexQueryRequest) {
         this.sendFlexQueryRequest = sendFlexQueryRequest;
     }
@@ -51,19 +56,24 @@ public class GetFlexXmlStatement {
 
         while (true) {
 
+            log.info("Sending request to IBKR for Flex Statement using Reference Code. Retry {}",retry);
+
             String flexXmlStatementResponse = restTemplate.getForObject(request, String.class);
 
             if (!flexXmlStatementResponse.contains("<ErrorMessage>Statement generation in progress. Please try again shortly.</ErrorMessage>")){
 
+                log.info("Obtained IBKR Flex Statement Response");
+
                 return flexXmlStatementResponse;
             }
 
-            System.out.println("Retry: "+retry);
+            log.info("Retry:{}",retry);
             retry+=1;
 
             try {
                 Thread.sleep(1000);
             } catch (InterruptedException e) {
+                log.error("Failed to get IBKR XML response", e);
                 throw new RuntimeException(e);
             }
         }
@@ -73,7 +83,7 @@ public class GetFlexXmlStatement {
 
         String flexXmlStatementResponse = getFlexXmlStatement();
 
-        System.out.println("ACTIVE PROFILE = " + System.getProperty("spring.profiles.active"));
+        log.info("Send Flex statement to GCS bucket {} with filename {}",flexXmlDownloadDirectory,flexXmlFilename);
 
         BlobId flexXmlStatementGcsLocation = BlobId.of(flexXmlDownloadDirectory, flexXmlFilename);
 
@@ -89,6 +99,7 @@ public class GetFlexXmlStatement {
             }
 
         } catch (IOException e) {
+            log.error("Failed to write XML to GCS", e);
             throw new RuntimeException("Failed to write XML to GCS", e);
         }
 
