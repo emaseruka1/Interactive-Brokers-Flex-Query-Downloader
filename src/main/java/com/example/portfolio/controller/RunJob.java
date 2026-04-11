@@ -16,7 +16,7 @@ public class RunJob {
 
     @GetMapping("/run")
     public String runJob(){
-
+        System.out.println(">>> SYSTEM PRINT TEST");
         log.info("Run job started");
 
         getFlexXmlStatement.downloadFlexXmlStatement();
