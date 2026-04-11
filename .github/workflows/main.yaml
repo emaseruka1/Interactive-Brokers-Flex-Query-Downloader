@@ -13,17 +13,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Write IBKR credentials
-        run: |
-          mkdir -p src/main/resources
-          echo "${{ secrets.IBKR_AUTH_KEY }}" >> src/main/resources/application.yml
-
-      - name: Upload Credentials
-        uses: actions/upload-artifact@v4
-        with:
-          name: ibkr-credentials
-          path: src/main/resources/application.yml
-
   build:
     name: Build Project
     runs-on: ubuntu-latest
@@ -38,12 +27,6 @@ jobs:
           distribution: 'temurin'
           java-version: '17'
           cache: 'maven'
-
-      - name: Download IBKR Credentials
-        uses: actions/download-artifact@v4
-        with:
-          name: ibkr-credentials
-          path: src/main/resources/
 
       - name: Compile Jar
         run: mvn clean package -Dspring.profiles.active=test -DskipTests --fail-at-end -X

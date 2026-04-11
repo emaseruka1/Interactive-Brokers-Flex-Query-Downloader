@@ -7,9 +7,9 @@ server:
 
 ibkr:
   flex:
-    token: 3603310888420181553812
+    token: ${ibkr_flex_token}
     query:
-      id: 1310106
+      id: ${ibkr_flex_query_id}
   send:
     request:
       url: https://ndcdyn.interactivebrokers.com/AccountManagement/FlexWebService/SendRequest
