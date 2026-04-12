@@ -28,10 +28,10 @@ public class GetFlexXmlStatement {
         @Value("${ibkr.get.statement.url}")
         private String ibkrGetStatementUrl;
 
-        @Value("${flex_query_bucket}")
+        @Value("${flex.query.bucket}")
         private String flexXmlDownloadDirectory;
 
-        @Value("${flex_query_filename}")
+        @Value("${flex.query.filename}")
         private String flexXmlFilename;
 
         private Storage storage;
