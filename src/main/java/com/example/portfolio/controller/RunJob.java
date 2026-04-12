@@ -23,7 +23,7 @@ public class RunJob {
         System.out.println(">>> SYSTEM PRINT TEST");
         log.info("Run job started");
 
-        getFlexXmlStatement.downloadFlexXmlStatement();
+        //getFlexXmlStatement.downloadFlexXmlStatement();
 
         return "Job completed";
     }
