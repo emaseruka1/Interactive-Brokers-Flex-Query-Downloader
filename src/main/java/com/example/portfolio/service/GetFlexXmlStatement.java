@@ -3,6 +3,7 @@ package com.example.portfolio.service;
 import com.example.portfolio.controller.RunJob;
 import com.google.cloud.storage.BlobId;
 import com.google.cloud.storage.BlobInfo;
+import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,8 +19,8 @@ import java.nio.charset.StandardCharsets;
 
 import java.io.IOException;
 
-    @Service
-    public class GetFlexXmlStatement {
+@Service
+public class GetFlexXmlStatement {
 
         @Value("${ibkr_flex_token}")
         private String flexToken;
@@ -33,7 +34,7 @@ import java.io.IOException;
         @Value("${flex_query_filename}")
         private String flexXmlFilename;
 
-        private final Storage storage = StorageOptions.getDefaultInstance().getService();
+        private Storage storage;
 
         private SendFlexQueryRequest sendFlexQueryRequest;
 
@@ -103,5 +104,11 @@ import java.io.IOException;
             }
 
 
+        }
+
+        @PostConstruct
+        public void init() {
+            storage = StorageOptions.getDefaultInstance().getService();
+            log.info("GCS initialized");
         }
     }
