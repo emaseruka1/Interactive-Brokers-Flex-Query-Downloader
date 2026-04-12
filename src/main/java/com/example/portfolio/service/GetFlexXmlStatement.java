@@ -22,16 +22,16 @@ import java.io.IOException;
 @Service
 public class GetFlexXmlStatement {
 
-        @Value("${ibkr_flex_token}")
+        @Value("${ibkr_flex_token:NOT_SET}")
         private String flexToken;
 
-        @Value("${ibkr.get.statement.url}")
+        @Value("${ibkr.get.statement.url:NOT_SET}")
         private String ibkrGetStatementUrl;
 
-        @Value("${flex.query.bucket}")
+        @Value("${flex.query.bucket:NOT_SET}")
         private String flexXmlDownloadDirectory;
 
-        @Value("${flex.query.filename}")
+        @Value("${flex.query.filename:NOT_SET}")
         private String flexXmlFilename;
 
         private Storage storage;
