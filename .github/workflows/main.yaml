@@ -66,8 +66,8 @@ jobs:
 
       - name: Build Docker Image
         run: |
-          docker build -t europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:latest .
+          docker build -t europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:${{ github.sha }} .
 
       - name: Push Docker Image
         run: |
-          docker push europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:latest
+          docker push europe-central2-docker.pkg.dev/ibkr-portfolio-tracker-476008/interactive-brokers-flex-query-downloader/interactive-brokers-flex-query-downloader:${{ github.sha }}
