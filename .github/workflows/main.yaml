@@ -51,11 +51,6 @@ jobs:
           name: jar-file
           path: target/
 
-      - name: List JAR contents
-        run: |
-          echo "=== JAR FILES ==="
-          jar tf target/*.jar
-
       - name: Authenticate to GCP
         uses: google-github-actions/auth@v1
         with:

@@ -9,14 +9,11 @@ import org.springframework.web.client.RestTemplate;
 @Service
 public class SendFlexQueryRequest {
 
-    @Value("${ibkr_flex_token:NOT_SET}")
+    @Value("${ibkr_flex_token}")
     private String flexToken;
 
-    @Value("${ibkr_flex_query_id:NOT_SET}")
+    @Value("${ibkr_flex_query_id}")
     private String flexQueryId;
-
-    @Value("${ibkr.send.request.url:NOT_SET}")
-    private String ibkrSendRequestUrl;
 
     private final RestTemplate restTemplate = new RestTemplate();
 
@@ -25,11 +22,14 @@ public class SendFlexQueryRequest {
     public String requestFlexQueryReferenceCode(){
 
         log.info("Sending request for Reference Code to IBKR");
-        log.info("ibkrSendRequestUrl:{}",ibkrSendRequestUrl);
+
+        String ibkrSendRequestUrl = "https://ndcdyn.interactivebrokers.com/AccountManagement/FlexWebService/SendRequest";
+
+        log.info("ibkrSendRequestUrl:{}", ibkrSendRequestUrl);
         log.info("flexToken:{}",flexToken);
         log.info("flexQueryId:{}",flexQueryId);
 
-        String request = String.format("%s?t=%s&q=%s&v=3",ibkrSendRequestUrl, flexToken, flexQueryId);
+        String request = String.format("%s?t=%s&q=%s&v=3", ibkrSendRequestUrl, flexToken, flexQueryId);
 
 
         String response = restTemplate.getForObject(request, String.class);

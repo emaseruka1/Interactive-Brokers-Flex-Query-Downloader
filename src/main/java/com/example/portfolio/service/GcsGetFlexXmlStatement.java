@@ -1,12 +1,9 @@
 package com.example.portfolio.service;
 
-import com.example.portfolio.controller.RunJob;
 import com.google.cloud.storage.BlobId;
 import com.google.cloud.storage.BlobInfo;
-import jakarta.annotation.PostConstruct;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
@@ -20,29 +17,27 @@ import java.nio.charset.StandardCharsets;
 import java.io.IOException;
 
 @Service
-public class GetFlexXmlStatement {
+@Profile("!test")
+public class GcsGetFlexXmlStatement implements FlexXmlActions {
 
-        @Value("${ibkr_flex_token:NOT_SET}")
+        @Value("${ibkr_flex_token}")
         private String flexToken;
 
-        @Value("${ibkr.get.statement.url:NOT_SET}")
-        private String ibkrGetStatementUrl;
-
-        @Value("${flex.query.bucket:NOT_SET}")
+        @Value("${flex.query.bucket}")
         private String flexXmlDownloadDirectory;
 
-        @Value("${flex.query.filename:NOT_SET}")
+        @Value("${flex.query.filename}")
         private String flexXmlFilename;
 
-        private Storage storage;
+        private Storage storage = StorageOptions.getDefaultInstance().getService();;
 
         private SendFlexQueryRequest sendFlexQueryRequest;
 
         private final RestTemplate restTemplate = new RestTemplate();
 
-        private static final Logger log = LoggerFactory.getLogger(GetFlexXmlStatement.class);
+        private static final Logger log = LoggerFactory.getLogger(GcsGetFlexXmlStatement.class);
 
-        public GetFlexXmlStatement(SendFlexQueryRequest sendFlexQueryRequest) {
+        public GcsGetFlexXmlStatement(SendFlexQueryRequest sendFlexQueryRequest) {
             this.sendFlexQueryRequest = sendFlexQueryRequest;
         }
 
@@ -50,7 +45,8 @@ public class GetFlexXmlStatement {
 
             String referenceCode = sendFlexQueryRequest.requestFlexQueryReferenceCode();
 
-            String request = String.format("%s?t=%s&q=%s&v=3",ibkrGetStatementUrl, flexToken, referenceCode);
+            String ibkrGetStatementUrl = "https://gdcdyn.interactivebrokers.com/AccountManagement/FlexWebService/GetStatement";
+            String request = String.format("%s?t=%s&q=%s&v=3", ibkrGetStatementUrl, flexToken, referenceCode);
 
             int retry =1;
 
@@ -102,13 +98,5 @@ public class GetFlexXmlStatement {
                 log.error("Failed to write XML to GCS", e);
                 throw new RuntimeException("Failed to write XML to GCS", e);
             }
-
-
-        }
-
-        @PostConstruct
-        public void init() {
-            storage = StorageOptions.getDefaultInstance().getService();
-            log.info("GCS initialized");
         }
     }

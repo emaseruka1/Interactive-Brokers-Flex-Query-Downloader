@@ -10,9 +10,8 @@ ibkr:
     token: ${ibkr_flex_token}
     query:
       id: ${ibkr_flex_query_id}
-  send:
-    request:
-      url: https://ndcdyn.interactivebrokers.com/AccountManagement/FlexWebService/SendRequest
-  get:
-    statement:
-      url: https://gdcdyn.interactivebrokers.com/AccountManagement/FlexWebService/GetStatement
+
+flex:
+  query:
+    bucket: portfolio_tracker_data
+    filename: current/transactions.xml
