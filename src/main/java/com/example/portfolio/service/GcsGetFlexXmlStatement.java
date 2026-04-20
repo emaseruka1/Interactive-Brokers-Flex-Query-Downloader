@@ -29,7 +29,7 @@ public class GcsGetFlexXmlStatement implements FlexXmlActions {
         @Value("${flex.query.filename}")
         private String flexXmlFilename;
 
-        private Storage storage = StorageOptions.getDefaultInstance().getService();;
+        private Storage storage = StorageOptions.getDefaultInstance().getService();
 
         private SendFlexQueryRequest sendFlexQueryRequest;
 
